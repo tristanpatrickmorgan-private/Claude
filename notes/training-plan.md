@@ -22,15 +22,18 @@ Try to leave at least one rest day between strength sessions.
 
 **Warm-up (5 min)** — easy treadmill walk, then light jog.
 
-**Strength (~20 min)** — 3 rounds, rest 60–90s between rounds:
+**Strength (~20 min)** — first do 1 light warm-up set of each exercise (5 reps, ~half your working weight). Then 3 working rounds, rest 60–90s between rounds:
 - Barbell floor press (no rack needed — lie on floor): 5–8 reps
-- Kettlebell goblet squat (start 12 kg): 10 reps
+- Kettlebell goblet squat: 10 reps
 - Barbell overhead press (standing): 8 reps
 - Plank: 20–30s
 
 **Cardio (~15 min)** — treadmill intervals: 2 min easy / 1 min faster, repeat.
 
-**Cooldown (5 min)** — stretch chest, shoulders, hips.
+**Cooldown (5 min)** — hold each stretch ~30s:
+- Doorway chest stretch (each side)
+- Cross-body shoulder stretch (each side)
+- Kneeling hip flexor stretch (each side)
 
 ---
 
@@ -38,7 +41,7 @@ Try to leave at least one rest day between strength sessions.
 
 **Warm-up (5 min)** — easy treadmill + band pull-aparts.
 
-**Strength (~20 min)** — 3 rounds, rest 60–90s:
+**Strength (~20 min)** — first do 1 light warm-up set of each exercise (5 reps, ~half your working weight). Then 3 working rounds, rest 60–90s between rounds:
 - Barbell bent-over row: 8–10 reps
 - Resistance band pull-apart: 12 reps
 - Barbell curl: 10 reps
@@ -47,7 +50,10 @@ Try to leave at least one rest day between strength sessions.
 
 **Cardio (~15 min)** — steady moderate pace on treadmill.
 
-**Cooldown (5 min)** — stretch back, hamstrings, calves.
+**Cooldown (5 min)** — hold each stretch ~30s:
+- Cat-cow on hands and knees (5 slow reps for the back)
+- Standing forward fold (hamstrings)
+- Wall calf stretch (each side)
 
 ---
 
@@ -68,6 +74,20 @@ Try to leave at least one rest day between strength sessions.
 - First 2–3 weeks: focus on form, don't chase weight. It will feel almost too easy.
 - Some soreness is normal. Sharp or joint pain is not — stop.
 - Missed a session? Just pick up next time. Consistency beats intensity.
+
+## Starting weights (week 1)
+Use these as a baseline. Adjust if too easy or too hard.
+
+| Exercise | Starting weight |
+|---|---|
+| Barbell floor press | Just the bar |
+| Kettlebell goblet squat | 6 kg |
+| Barbell overhead press | Just the bar (or 6 kg KB single-arm if too heavy) |
+| Barbell bent-over row | Just the bar |
+| Barbell curl | Just the bar (or 6 kg KB) |
+| Step-ups | Bodyweight |
+
+If the bar alone is too heavy on overhead press, swap in single-arm kettlebell press (6 kg, then 12 kg) until you build up.
 
 ---
 
@@ -100,6 +120,9 @@ Stand facing the step. Place one foot fully on the step, then drive through that
 ### Dead bug
 Lie on your back with arms pointing straight up toward the ceiling and knees bent at 90 degrees (shins parallel to the floor — "tabletop" position). Slowly lower your right arm toward the floor behind your head while at the same time straightening and lowering your left leg toward the floor. Keep your lower back pressed flat against the floor throughout — this is the whole point of the exercise. Return to start and repeat on the other side. Go slowly.
 
+### Hollow hold
+Lie on your back. Press your lower back firmly into the floor and keep it there. Lift your shoulders and head off the floor and reach your arms overhead toward the ceiling. Lift your legs straight, just a few inches off the floor. You should look like a shallow banana. Hold for 20–30s. If your lower back lifts off the floor, bend your knees or bring your arms by your sides until you're strong enough.
+
 ### Treadmill intervals (Session A)
 After your warm-up jog, increase speed to a pace where you could still speak in short sentences but it feels like effort — not a sprint. Hold that for 1 minute, then drop back to an easy jog or fast walk for 2 minutes. Repeat this cycle for 12–15 minutes. As fitness improves, make the fast intervals slightly longer or slightly faster.
 
@@ -111,3 +134,15 @@ Use the band to assist stretches you can't quite reach on your own:
 - **Hamstring:** Lie on back, loop band around one foot, pull leg toward you with straight knee.
 - **Chest/shoulder:** Hold band behind you with both hands, lift arms away from your back.
 - **Hip flexor:** Kneel in a lunge position, loop band around the front knee and anchor it behind you for a gentle pull. Hold each stretch 30–45 seconds.
+
+---
+
+## Logging your sessions
+
+Just tell Claude what you did — it'll save to `logs/gym.md` in the right format. Examples:
+
+> "Log gym: Session A. Floor press 3x6 @ 20kg. Goblet squat 3x10 @ 6kg. Overhead press 3x8 @ 20kg. Plank 3x30s. Cardio 14 min intervals."
+
+> "Did Session B today, felt strong on rows but curls were tough. Skipped the cardio."
+
+Either works. Claude will format and date-stamp it.
