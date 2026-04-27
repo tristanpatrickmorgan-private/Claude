@@ -14,6 +14,9 @@
 ## Fish
 - Cod, potatoes and brown butter
 
+## Potatoes
+- Spanish tortilla
+
 ## Traybakes & one-pots
 - Chicken thigh traybake (roasted veg in the same tray — potatoes, peppers, courgette, onion)
 - Sausage and lentil one-pot
