@@ -3,6 +3,13 @@
 Beginner-friendly plan — basic cardio + upper body strength.
 2–3 sessions per week, 45 min each, all at home.
 
+## About me (for context)
+- Male, early 30s
+- 5'10", ~80 kg
+- Office job (mostly sedentary)
+- Previously medium fitness, returning after a few months off following a new baby in the family
+- Goals: rebuild basic cardio and upper body strength, sustainable habit
+
 ## Equipment
 - Treadmill
 - Barbell with plates (8–32 kg total)
