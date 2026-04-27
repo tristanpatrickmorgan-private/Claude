@@ -5,7 +5,7 @@ Beginner-friendly plan — basic cardio + upper body strength.
 
 ## Equipment
 - Treadmill
-- Dumbbells 8–32 kg
+- Barbell with plates (8–32 kg total)
 - Kettlebells 6, 12, 20 kg
 - Step
 - Resistance bands
@@ -23,9 +23,9 @@ Try to leave at least one rest day between strength sessions.
 **Warm-up (5 min)** — easy treadmill walk, then light jog.
 
 **Strength (~20 min)** — 3 rounds, rest 60–90s between rounds:
-- Dumbbell floor press or push-ups (knees if needed): 8–10 reps
+- Barbell floor press (no rack needed — lie on floor): 5–8 reps
 - Kettlebell goblet squat (start 12 kg): 10 reps
-- Dumbbell shoulder press: 8 reps
+- Barbell overhead press (standing): 8 reps
 - Plank: 20–30s
 
 **Cardio (~15 min)** — treadmill intervals: 2 min easy / 1 min faster, repeat.
@@ -39,9 +39,9 @@ Try to leave at least one rest day between strength sessions.
 **Warm-up (5 min)** — easy treadmill + band pull-aparts.
 
 **Strength (~20 min)** — 3 rounds, rest 60–90s:
-- Bent-over dumbbell row: 8–10 reps each arm
+- Barbell bent-over row: 8–10 reps
 - Resistance band pull-apart: 12 reps
-- Dumbbell bicep curl: 10 reps
+- Barbell curl: 10 reps
 - Step-ups onto the step: 10 each leg
 - Dead bug or hollow hold: 20–30s
 
