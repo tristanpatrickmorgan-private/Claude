@@ -4,5 +4,7 @@
 - [ ] UK tax return
 - [ ] Swedish tax return
 - [ ] Companies House verification
+- [ ] Research lawnmowers
+- [ ] Cut the lawn
 
 ## Done
