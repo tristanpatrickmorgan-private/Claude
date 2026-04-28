@@ -14,10 +14,22 @@ This repo is my personal life organiser. Keep everything simple and low-friction
 | Add a to-do / task | Append to `todo.md` under the right section |
 | Mark something done | Tick it off in `todo.md` and move to `## Done` with the date |
 | Shopping list | Edit `shopping.md` — add items under the relevant store or `## General` |
-| Gym / fitness | Append to `logs/gym.md` under a `## YYYY-MM-DD` heading |
+| Gym / fitness / health | Append gym logs to `logs/gym.md`; edit plan at `projects/health-fitness/training-plan.md` |
 | Log something / note something | Append to `logs/YYYY-MM.md` under a `## YYYY-MM-DD` heading |
 | Holiday / trip planning | Edit `notes/holidays.md`, creating it if it doesn't exist |
+| Swedish learning | Edit `projects/swedish/notes.md` |
+| Archie | Edit `projects/archie/notes.md` |
+| Eloise | Edit `projects/eloise/notes.md` |
 | Any other list or note | Create a simple `.md` file in the right place and tell me |
+
+## Projects
+
+| Folder | What it's for |
+|---|---|
+| `projects/health-fitness/` | Training plan, gym context |
+| `projects/swedish/` | Swedish learning notes, vocabulary, progress |
+| `projects/archie/` | Archie (born 12 Mar 2024) — milestones, health, memories |
+| `projects/eloise/` | Eloise (born 3 Nov 2025) — milestones, health, memories |
 
 ## File formats
 
