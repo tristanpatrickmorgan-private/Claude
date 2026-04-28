@@ -6,5 +6,5 @@ Tracking early waking issue. Started logging 2026-04-28.
 
 | Date | Wake time | Nap | Nap duration | Bedtime | Notes |
 |---|---|---|---|---|---|
-| 2026-04-28 | ~5:00–5:30 (approx, pre-log) | 12pm | 1–2hrs | 7pm | Baseline. Clock not yet arrived. Room darkened. |
+| 2026-04-28 | 5:25am | 12pm | TBC | 7pm | Didn't resettle. ~5 mins quiet after each visit then called again. Clock not yet arrived. |
 
