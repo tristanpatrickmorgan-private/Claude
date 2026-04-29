@@ -30,6 +30,7 @@ This repo is my personal life organiser. Keep everything simple and low-friction
 | `projects/swedish/` | Swedish learning notes, vocabulary, progress |
 | `projects/archie/` | Archie (born 12 Mar 2024) — milestones, health, memories |
 | `projects/eloise/` | Eloise (born 3 Nov 2025) — milestones, health, memories |
+| `projects/habits/` | Reading log, intentions, habit tracking |
 
 ## File formats
 
