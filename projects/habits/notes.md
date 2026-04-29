@@ -12,5 +12,5 @@
 |---|---|---|---|
 
 ## Currently reading
-<!-- What's on the go right now -->
+- *No-Drama Discipline* — Daniel J. Siegel
 
