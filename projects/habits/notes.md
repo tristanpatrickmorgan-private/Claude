@@ -22,6 +22,7 @@
 - *Oh Crap! Potty Training* — Jamie Glowacki
 - *The Whole-Brain Child* — Daniel J. Siegel & Tina Payne Bryson
 - *We're Parents! The First-Time Dad's Guide to Baby's First Year* — Adrian Kulp
+- *Precious Little Sleep* — Alexis Dubief
 
 ### Self-help & productivity
 - *Atomic Habits* — James Clear
@@ -72,7 +73,6 @@
 ### Parenting
 - *Baby Bliss* — Dr. Harvey Karp
 - *The Happiest Baby Guide to Great Sleep* — Harvey Karp
-- *Precious Little Sleep* — Alexis Dubief
 
 ### Novels — Jo Nesbo
 - *The Nightmare*
