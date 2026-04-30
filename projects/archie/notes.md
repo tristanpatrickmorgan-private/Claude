@@ -18,7 +18,7 @@ Born: 12 March 2024 (2 years old)
 **Current issue: early waking (~2 weeks)**
 - Waking 5:00–5:30am, been going on ~2 weeks
 - Room fully darkened
-- Gro-clock ordered (red = sleep, green = get up — set to 6am when arrives)
+- Wake-up clock arrived 2026-04-29. Orange at 5:30am (animal eyes closed = not yet), green at 6am (animal eyes open = get up)
 - See `sleep-log.md` for ongoing tracking
 
 **Notes for future reference:**
