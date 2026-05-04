@@ -12,4 +12,5 @@ Tracking early waking issue. Started logging 2026-04-28.
 | 2026-05-01 | 5:28am | - | - | 7pm | Woke just before orange light (5:30) — natural wake, not triggered by clock. Orange timing fixed on this model. |
 | 2026-05-02 | 4:50am | - | - | 7:30pm | Staying at grandparents — likely cause. Thirsty at 8pm. Brief night waking but resettled himself. Wouldn't sleep at 4:50. Taken to parents' bed 5:15, still awake. Moved to sofa 5:45, slept with dad until 7:10. |
 | 2026-05-03 | 5:30am | - | - | - | Still at grandparents. Brought straight to parents' bed on waking. |
+| 2026-05-04 | 4:50am | - | - | ~7pm (car) | Fell asleep in car on way home. Woke 4:50, told to lie down. Called again 5:00 (hadn't resettled). Told to lie down again at 5:05 — slept until 6:20. Good result. |
 
