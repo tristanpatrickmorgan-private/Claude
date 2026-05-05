@@ -1,4 +1,16 @@
-# Summer 2026 — Holiday Planning
+# 2026 — Holiday Planning
+
+## London (before summer)
+- **Format:** Wednesday to Wednesday
+- **Constraint:** Work commitments 25–30 May, party in Sweden 6 June (not essential to attend)
+- **Possible windows:**
+  - Wed 3 Jun – Wed 10 Jun (London on 6 Jun naturally avoids the party)
+  - Wed 10 Jun – Wed 17 Jun
+  - Wed 17 Jun – Wed 24 Jun
+  - Wed 24 Jun – Wed 1 Jul (tightest before summer)
+- **Status:** Dates TBC
+
+## Summer 2026
 
 ## Key dates
 | Date | Event |
