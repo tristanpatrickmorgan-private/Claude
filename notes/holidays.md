@@ -3,12 +3,13 @@
 ## London (before summer)
 - **Format:** Wednesday to Wednesday
 - **Constraint:** Work commitments 25–30 May, party in Sweden 6 June (not essential to attend)
-- **Possible windows:**
-  - Wed 3 Jun – Wed 10 Jun (London on 6 Jun naturally avoids the party)
+- **Preferred windows:**
+  - Wed 3 Jun – Wed 10 Jun (avoids 6 Jun party naturally)
   - Wed 10 Jun – Wed 17 Jun
-  - Wed 17 Jun – Wed 24 Jun
-  - Wed 24 Jun – Wed 1 Jul (tightest before summer)
-- **Status:** Dates TBC
+- **Flights:** Ryanair ~SEK 1,000 each return in June
+- **Passengers:** Marie, Tristan, Archie (x3) — Eloise free as infant
+- **Estimated total: SEK 3,000**
+- **Status:** Dates TBC, flights not booked
 
 ## Summer 2026
 
