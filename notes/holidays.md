@@ -6,8 +6,9 @@
 | 6 July | Preschool closes |
 | 6–16 July (provisional) | Ireland |
 | 18 July | Wedding, Karlstad, Sweden |
-| 19 July – 3 Aug | TBD |
+| 19 July – 3 Aug | Norway / Sweden (see below) |
 | 3 August | Preschool reopens |
+| First week Aug | Also off work |
 
 ## Ireland trip
 - **Window:** 6 July – ~16 July (back for wedding on 18th)
@@ -21,11 +22,12 @@
 - **Estimated total: SEK 1,500**
 - Flights not yet booked
 
-## After wedding (19 July – 3 Aug)
-- ~2 weeks free
-- Plans TBD
+## After wedding (19 July – early Aug)
+- **~1 week in Gausta, Norway** — weather dependent
+- **A few days in Sannäs, Sweden** — weather dependent
+- Flexible / mix of the above around weather
 
 ## To do
 - [ ] Book Ireland flights (~SEK 1,500 for 3)
 - [ ] Confirm Ireland dates with brother
-- [ ] Plan post-wedding period (19 Jul – 3 Aug)
+- [ ] Plan Gausta and Sannäs timing around weather and wedding
