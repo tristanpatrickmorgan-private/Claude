@@ -11,6 +11,18 @@
 - **Estimated total: SEK 3,000**
 - **Status:** Dates TBC, flights not booked
 
+### People to see
+| Who | Where | Priority / notes |
+|---|---|---|
+| Ed & Milou | Watford | Most important — will probably stay with them |
+| Freddie & Poppy | Suffolk | Potentially stay with them |
+| Alfie & Haz | London | Very pregnant — worth prioritising |
+| Grandmother | Guildford | |
+| Will HJ | London | |
+| Kian | London | |
+| Ioanna | London | |
+| Rob & Jamie | North London | Maybe |
+
 ## Summer 2026
 
 ## Key dates
