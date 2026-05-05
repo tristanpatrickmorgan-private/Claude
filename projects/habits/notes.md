@@ -11,6 +11,10 @@
 - *No-Drama Discipline* — Daniel J. Siegel & Tina Payne Bryson (54%)
 - *The Book You Wish Your Parents Had Read* — Philippa Perry (38%)
 
+## Up next
+- *The Trusted Advisor* — David Maister, Charles Green & Robert Galford
+- *The Almost Nearly Perfect People* — Michael Booth
+
 ---
 
 ## Books read
