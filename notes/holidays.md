@@ -56,12 +56,29 @@
 - **A few days in Sannäs, Sweden** — family place, easy and flexible but can be busy with family; better for short stays
 - Good fallback but not a substitute for an independent trip
 
-## End of May / early June — long weekend idea
-- Good slot to break up the stretch before summer
-- Options: drivable from Gothenburg, or direct flight from Gothenburg
-- Needs to work well with a young family
-- Hotels ok for a short trip but self-catering or a house is better
-- **Status:** Nothing planned yet — worth looking at options
+## Long weekend / independent trip
+
+**Principle:** Do something new and independent each year — not just Gausta/Sannäs. End of May or early June is a good slot to break up the stretch before summer. All options below are direct from Gothenburg Landvetter. Hotels ok for short trips but self-catering preferred. Needs to work for a young family (Archie 2, Eloise infant).
+
+### Shortlisted destinations
+
+| Destination | Flight | Time | Best slot | Why |
+|---|---|---|---|---|
+| **Corfu** | Ryanair, SAS | ~3h30m | Jul–Sept | Beautiful Greek island, less commercial than Mallorca, great beaches, quieter in September — feels like a proper trip |
+| **Malta** | Ryanair | ~3h30m | May–Oct | English-speaking, ancient history, beaches, very family friendly — genuinely underrated |
+| **Porto** | Ryanair, SAS | ~3h30m | May–Jun, Sept | Beautiful city, great food, warm but not overwhelming, excellent self-catering — good end-of-May option |
+| **Barcelona** | Norwegian | ~3h | May–Jun, Sept | Beach + city, best before peak July/August heat — vibrant but manageable for a long weekend |
+
+### Full options researched (for reference)
+- **Palma de Mallorca** — Ryanair/Norwegian/SAS, ~3h10m, May–Sept. Best all-round family beach, excellent infrastructure. Reliable but feels more package-holiday.
+- **Faro/Algarve** — SAS direct seasonal (April–May only, check if extends to June). ~4h. Great beaches for young kids.
+- **Edinburgh** — Ryanair, ~2h, May–Sept. Great city for toddlers (castle, zoo, parks), manageable size.
+- **Nice** — Norwegian/SAS, ~2h30m, Jun–Sept. French Riviera, beaches + culture, shorter flight.
+- **Alicante / Málaga** — Norwegian/Ryanair, ~3h, Jun–Sept. Costa Blanca/Sol, reliable sun, good family infrastructure.
+- **Amsterdam** — KLM, ~2h, May–Jun. Very family friendly city, easy logistics.
+- **Reykjavik** — Icelandair, ~3h, Jun–Aug only. Dramatic and unique, but cold and no beach.
+
+**Status:** Nothing booked — revisit when ready to plan a specific slot.
 
 ## To do
 - [ ] Book London flights (~SEK 3,000 for 3) — Ryanair, early July
