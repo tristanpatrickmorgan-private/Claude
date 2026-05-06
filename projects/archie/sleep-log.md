@@ -14,4 +14,5 @@ Tracking early waking issue. Started logging 2026-04-28.
 | 2026-05-03 | 5:30am | - | - | - | Still at grandparents. Brought straight to parents' bed on waking. |
 | 2026-05-04 | 4:50am | - | - | ~7pm (car) | Fell asleep in car on way home. Woke 4:50, told to lie down. Called again 5:00 (hadn't resettled). Told to lie down again at 5:05 — slept until 6:20. Good result. |
 | 2026-05-05 | 4:00am | Shorter than usual | - | 7pm | Short nap due to appointments. Woke 4am — told to lie down twice, resettled by 4:20. Woke again 5:30 — quick to resettle. Woke just before 6, brought to bed at 6am. Good night — resettled twice and hit the 6am target. |
+| 2026-05-06 | 4:50am | - | - | 7pm | Resettled straight away when told to lie down. Woke again 5:58 — brought to bed at 6am. |
 
