@@ -16,4 +16,5 @@ Tracking early waking issue. Started logging 2026-04-28.
 | 2026-05-05 | 4:00am | Shorter than usual | - | 7pm | Short nap due to appointments. Woke 4am — told to lie down twice, resettled by 4:20. Woke again 5:30 — quick to resettle. Woke just before 6, brought to bed at 6am. Good night — resettled twice and hit the 6am target. |
 | 2026-05-06 | 4:50am | - | - | 7pm | Resettled straight away when told to lie down. Woke again 5:58 — brought to bed at 6am. |
 | 2026-05-07 | 5:30am | - | - | 6:50pm | Told to lie down twice — quiet ~5 mins each time but called again. Brought to bed at 6am. |
+| 2026-05-08 | 5:15am | - | - | 7pm | Likely woken by Eloise. Told to lie down — didn't resettle, but cries less intense than usual. |
 
