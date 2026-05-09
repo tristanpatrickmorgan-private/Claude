@@ -1,6 +1,7 @@
 # To-do
 
 - [ ] Roof box — investigate fixing yourself (plastic workshop quoted too expensive)
+- [ ] En suite shower — investigate leak
 - [ ] UK tax return
 - [ ] Swedish tax return
 - [ ] Companies House verification
