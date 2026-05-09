@@ -6,6 +6,7 @@
 - [ ] Swedish tax return
 - [ ] Research lawnmowers
 - [ ] Buy new wax tablecloth
+- [ ] Log remaining hayfever medicines (2 more to add to notes/health.md)
 - [ ] Register Electrolux appliance for warranty
 
 ## Done
