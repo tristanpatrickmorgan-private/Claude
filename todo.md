@@ -6,6 +6,7 @@
 - [ ] Swedish tax return
 - [ ] Research lawnmowers
 - [ ] Buy new wax tablecloth
+- [ ] Log current allergy medicine
 
 ## Done
 - [x] 2026-04-29 — Ask Marie to call the plastic place to fix the roof box (too expensive — moving to DIY investigation)
