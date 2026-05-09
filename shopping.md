@@ -1,7 +1,7 @@
 # Shopping
 
 ## General
-- [ ] Wax tablecloth — smooth PVC type, NOT linen-look/canvas. Buy by the meter from dukarsverige.se/collections/enfargad-vaxduk. Best options: Nordfavn Uni (beige/white/sesame beige, 139 kr/m) or Uni Color (white, 123 kr/m). Both 140 cm wide.
+- [x] Wax tablecloth — bought: Textilvaxduk linfärgad ljusgrå 158–160cm from Selfmade (199.95 kr/m). Acrylic/Teflon-coated, matte fabric-like surface, 90% cotton 10% polyester. Better than waxed canvas but has some texture — monitor how well it wipes clean with kids. If not good enough, next step is smooth PVC from dukarsverige.se/collections/enfargad-vaxduk (Nordfavn Uni or Uni Color).
 
 ## Date Night
 - [ ] Burrata (x2)
