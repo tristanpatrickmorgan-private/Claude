@@ -1,6 +1,7 @@
 # Shopping
 
 ## General
+- [ ] Wax tablecloth — smooth PVC type, NOT linen-look/canvas. Buy by the meter from dukarsverige.se/collections/enfargad-vaxduk. Best options: Nordfavn Uni (beige/white/sesame beige, 139 kr/m) or Uni Color (white, 123 kr/m). Both 140 cm wide.
 
 ## Date Night
 - [ ] Burrata (x2)
