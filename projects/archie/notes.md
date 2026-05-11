@@ -33,6 +33,12 @@ Born: 12 March 2024 (2 years old)
 ## Medical & health
 <!-- GP visits, vaccinations, medications, allergies -->
 
+### 2026-05-10 — Ear infection (both ears)
+- Presented with significant wax buildup
+- Diagnosed with ear infection in both ears
+- Treatment: antibiotics, 5-day course
+- Follow-up: return to doctor in 3 months (by 2026-08-10)
+
 ## Activities & ideas
 <!-- Things to do with him, classes, days out, things he enjoys -->
 
