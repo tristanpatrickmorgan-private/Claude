@@ -20,4 +20,5 @@ Tracking early waking issue. Started logging 2026-04-28.
 | 2026-05-09 | 5:05am | - | - | 7pm | Told to sleep a couple of times — quiet for short periods but kept calling out until 6am. Brought to bed at 6am. |
 | 2026-05-10 | 5:30am | - | - | 7pm (asleep 7:30) | Didn't resettle but less upset than usual. Found he'd done a poo between 5:30–6am — likely a factor. Collected at 6am. |
 | 2026-05-11 | 5:05am | - | - | 7pm | Woken by dog ~23:00 — took a while to resettle. Morning waking in and out with Eloise also making noise. Lots of confounding factors: ear infection (both ears, diagnosed yesterday), staying at different house for dogsitting week. |
+| 2026-05-12 | 4:55am (brief) | - | - | 7:30pm | Brief wake at 4:55 — had some water and resettled quickly. Slept through to 6am. Parent went in at 6 on hearing movement before he called. Good night. |
 
