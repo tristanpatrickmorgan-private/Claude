@@ -1,0 +1,38 @@
+name: Daily Summary Email
+
+on:
+  schedule:
+    - cron: '0 5 * * *'  # 7am Swedish time (CEST, UTC+2)
+  workflow_dispatch:      # allows manual trigger from GitHub for testing
+
+jobs:
+  send-daily-email:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Set date
+        run: echo "TODAY=$(TZ='Europe/Stockholm' date +'%a %d %b %Y')" >> $GITHUB_ENV
+
+      - name: Generate email content
+        run: TZ='Europe/Stockholm' python scripts/daily_email.py > email_body.txt
+
+      - name: Send email
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.GMAIL_USERNAME }}
+          password: ${{ secrets.GMAIL_APP_PASSWORD }}
+          subject: "Daily summary — ${{ env.TODAY }}"
+          to: tristanpatrickmorgan@gmail.com
+          from: "Personal Assistant <tristanpatrickmorgan@gmail.com>"
+          body: file://email_body.txt
