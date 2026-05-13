@@ -21,5 +21,6 @@
 - Described as matching "most talented and senior Senior Managers"
 - More details to follow beyond the headline figures
 - Company keen to bring back
+- Current salary at Trine: 82,000 SEK/month (no bonus, worse pension)
 
-**Status:** Offer received — considering
+**Status:** Accepted — 2026-05-13. Reply sent to Ulrika accepting the offer and requesting Swedish language lessons be included in the details (previously part of package). Asked Ulrika to pass on news and thanks to Johan.
