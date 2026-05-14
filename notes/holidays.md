@@ -7,25 +7,39 @@
 ---
 
 ## London (early July — replaces Ireland)
-- **Dates:** 6–16 July (preschool closes 6 July, back for wedding 18 July)
-- **Base:** Ed & Milou, Croxley/Watford — happy to host, in Croxley first two weekends of July with some plans on one day each weekend
+- **Dates:** 8–16 July (fly 8 July, preschool closes 6 July, back for wedding 18 July)
+- **Base:** Ed & Milou, Croxley/Watford — staying with them throughout
 - **Flights:** Ryanair ~SEK 1,000 each return
 - **Passengers:** Marie, Tristan, Archie (x3) — Eloise free as infant
 - **Estimated total: SEK 3,000**
-- **Status:** Dates TBC, flights not booked
+- **Status:** Dates confirmed, flights not booked
 - **Note:** Brother will be in Ireland 27 Jun – ~10–13 Jul — Ireland overlap not happening this summer
 
-### People to see
-| Who | Where | Priority / notes |
+### Itinerary
+| Date | Day | Plan |
 |---|---|---|
-| Ed & Milou | Watford / Croxley | Most important — staying with them |
-| Freddie & Poppy | Suffolk | Potentially stay with them |
-| Alfie & Haz | London | Very pregnant — worth prioritising |
-| Grandmother | Guildford | |
-| Will HJ | London | |
-| Kian | London | |
-| Ioanna | London | |
-| Rob & Jamie | North London | Maybe |
+| 8 Jul | Wed | Fly Gothenburg → London. Head to Suffolk — arrive Freddie & Poppy (stay over) |
+| 9 Jul | Thu | Freddie & Poppy, Suffolk (stay over) |
+| 10 Jul | Fri | Travel back to Croxley. Dinner at Ed's — Rob & Jamie |
+| 11 Jul | Sat | Will HJ + Kian |
+| 12 Jul | Sun | Ciara + Alfie & Harriet |
+| 13 Jul | Mon | Ioanna — lunch |
+| 14 Jul | Tue | Grandmother, Guildford |
+| 15 Jul | Wed | Buffer / flex |
+| 16 Jul | Thu | Fly home to Gothenburg |
+
+### People to see
+| Who | Where | Availability / notes |
+|---|---|---|
+| Ed & Milou | Croxley/Watford | Base throughout — dinner with Rob & Jamie Fri 10th |
+| Freddie & Poppy | Suffolk | Available first two weeks July — staying 8–10 Jul |
+| Alfie & Harriet | London | Very pregnant — priority. Sun 12th |
+| Ciara | London | Sun 12th |
+| Will HJ | London | Available weekends — Sat 11th |
+| Kian | London | Available weekend of 11/12 — Sat 11th |
+| Ioanna | London | Available after 12th, working — lunch Mon 13th |
+| Grandmother | Guildford | Can do midweek — Tue 14th |
+| Rob & Jamie | North London | Fri 10th dinner at Ed's |
 
 ### Ed's availability (from WhatsApp)
 - In France 3–14 June
@@ -38,7 +52,7 @@
 | Date | Event |
 |---|---|
 | 6 July | Preschool closes |
-| 6–16 July (provisional) | London |
+| 8–16 July | London |
 | 18 July | Wedding, Karlstad, Sweden |
 | 19 July – 3 Aug | Norway / Sweden (see below) |
 | 3 August | Preschool reopens |
