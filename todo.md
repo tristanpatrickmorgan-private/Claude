@@ -10,7 +10,8 @@
 - [ ] Book Archie doctor follow-up for ear infection — by 2026-08-10 (3 months after diagnosis)
 - [ ] Wedding anniversary (4 June) — book dinner and arrange babysitter
 - [ ] Lisa & Johan's party (6 June) — arrange babysitter
-- [ ] London trip — confirm dates with all parties (Ed & Milou, Freddie & Poppy, Will HJ, Kian, Ciara, Alfie & Harriet, Ioanna, Grandmother, brother)
+- [ ] London trip — confirm with remaining parties: Freddie & Poppy, Will HJ, Kian, Ciara, Alfie & Harriet
+- [ ] London trip — confirm with Grandmother (Guildford, Tue 14 Jul) — blocker for booking flights
 - [ ] Book London flights — Ryanair, 8 July outbound + 15 July return from London
 - [ ] Book car hire for London trip (8–15 July)
 

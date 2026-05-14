@@ -24,22 +24,22 @@
 | 11 Jul | Sat | Will HJ + Kian |
 | 12 Jul | Sun | Ciara + Alfie & Harriet |
 | 13 Jul | Mon | Ioanna — lunch |
-| 14 Jul | Tue | Grandmother, Guildford. After visit: drive to Bristol (~2hr, over naptime) — arrive brother's |
-| 15 Jul | Wed | Brother, Bristol. Leave midday → drive to London (~2hr) → evening flight home to Gothenburg |
+| 14 Jul | Tue | Grandmother, Guildford. After visit: drive to Bristol (~2hr, over naptime) — arrive Angus's |
+| 15 Jul | Wed | Angus, Bristol. Leave midday → drive to London (~2hr) → evening flight home to Gothenburg |
 
 ### People to see
 | Who | Where | Availability / notes |
 |---|---|---|
-| Ed & Milou | Croxley/Watford | Base 9–14 Jul — dinner with Rob & Jamie Fri 10th |
+| Ed & Milou | Croxley/Watford | ✓ Confirmed. Base 9–14 Jul — dinner with Rob & Jamie Fri 10th |
 | Freddie & Poppy | Suffolk | Available first two weeks July — staying night of 8th |
 | Alfie & Harriet | London | Very pregnant — priority. Sun 12th |
 | Ciara | London | Sun 12th |
 | Will HJ | London | Available weekends — Sat 11th |
 | Kian | London | Available weekend of 11/12 — Sat 11th |
-| Ioanna | London | Available after 12th, working — lunch Mon 13th |
-| Grandmother | Guildford | Can do midweek — Tue 14th |
+| Ioanna | London | ✓ Confirmed. Lunch Mon 13th |
+| Grandmother | Guildford | ⚠️ Pending — vital confirmation before booking flights. Tue 14th |
 | Rob & Jamie | North London | Fri 10th dinner at Ed's |
-| Brother | Bristol | Tue night – Wed 15th |
+| Angus (brother) | Bristol | ✓ Confirmed. Tue night – Wed 15th |
 
 ### Ed's availability (from WhatsApp)
 - In France 3–14 June
