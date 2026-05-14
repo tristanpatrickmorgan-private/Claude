@@ -9,11 +9,11 @@
 ## London (early July — replaces Ireland)
 - **Dates:** 8–15 July (fly 8 July, back for wedding 18 July)
 - **Base:** Ed & Milou, Croxley/Watford — staying with them 9–14 July
-- **Flights:** Ryanair ~SEK 1,000 each return. Return: evening flight 15 July (from Bristol or London TBC)
+- **Flights:** Ryanair ~SEK 1,000 each return. Return: evening flight 15 July from London (drive from Bristol ~2hr)
+- **Car hire:** Hiring a car throughout
 - **Passengers:** Marie, Tristan, Archie (x3) — Eloise free as infant
 - **Estimated total: SEK 3,000**
-- **Status:** Dates confirmed, flights not booked
-- **Note:** Brother will be in Ireland 27 Jun – ~10–13 Jul — Ireland overlap not happening this summer
+- **Status:** Plan drafted — confirming with all parties
 
 ### Itinerary
 | Date | Day | Plan |
@@ -25,7 +25,7 @@
 | 12 Jul | Sun | Ciara + Alfie & Harriet |
 | 13 Jul | Mon | Ioanna — lunch |
 | 14 Jul | Tue | Grandmother, Guildford. After visit: drive to Bristol (~2hr, over naptime) — arrive brother's |
-| 15 Jul | Wed | Brother, Bristol. Leave midday → evening flight home to Gothenburg |
+| 15 Jul | Wed | Brother, Bristol. Leave midday → drive to London (~2hr) → evening flight home to Gothenburg |
 
 ### People to see
 | Who | Where | Availability / notes |
@@ -217,7 +217,8 @@ Late September can touch 30°C, so May is the only safe window.
 **Status:** Nothing booked — revisit when ready to plan a specific slot.
 
 ## To do
-- [ ] Book London flights (~SEK 3,000 for 3) — Ryanair, 8 July outbound; check Bristol or London for 15 July return
-- [ ] Confirm exact dates with Ed & Milou
+- [ ] Confirm London dates with all parties
+- [ ] Book London flights — Ryanair, 8 July outbound + 15 July return from London
+- [ ] Book car hire for London trip (8–15 July)
 - [ ] Plan Gausta and Sannäs timing around weather and wedding
 - [ ] Look into end of May / early June long weekend options (drivable or direct flight from Gothenburg)

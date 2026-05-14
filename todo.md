@@ -9,7 +9,10 @@
 - [ ] Register Electrolux appliance for warranty
 - [ ] Book Archie doctor follow-up for ear infection — by 2026-08-10 (3 months after diagnosis)
 - [ ] Wedding anniversary (4 June) — book dinner and arrange babysitter
-- [ ] Lisa & Johan's party (6 July) — arrange babysitter
+- [ ] Lisa & Johan's party (6 June) — arrange babysitter
+- [ ] London trip — confirm dates with all parties (Ed & Milou, Freddie & Poppy, Will HJ, Kian, Ciara, Alfie & Harriet, Ioanna, Grandmother, brother)
+- [ ] Book London flights — Ryanair, 8 July outbound + 15 July return from London
+- [ ] Book car hire for London trip (8–15 July)
 
 ## Done
 - [x] 2026-04-29 — Ask Marie to call the plastic place to fix the roof box (too expensive — moving to DIY investigation)
