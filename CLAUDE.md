@@ -17,7 +17,7 @@ This repo is my personal life organiser. Keep everything simple and low-friction
 | Shopping list | Edit `shopping.md` — add items under the relevant store or `## General` |
 | Gym / fitness / health | Append gym logs to `logs/gym.md`; edit plan at `projects/health-fitness/training-plan.md` |
 | Log something / note something | Append to `logs/YYYY-MM.md` under a `## YYYY-MM-DD` heading |
-| Holiday / trip planning | Edit `notes/holidays.md` |
+| Holiday / trip planning | Edit `projects/holidays/notes.md` |
 | Meal ideas | Edit `notes/meals.md` |
 | Swedish learning | Edit `projects/swedish/notes.md` |
 | Archie — general | Edit `projects/archie/notes.md` |
@@ -38,6 +38,7 @@ This repo is my personal life organiser. Keep everything simple and low-friction
 | `projects/eloise/` | Eloise (born 3 Nov 2025) — milestones, health, memories |
 | `projects/habits/` | Reading log, intentions, habit tracking, per-book notes |
 | `projects/jeep-build/` | Half-scale Willy's Jeep or Land Rover build project |
+| `projects/holidays/` | Trip and holiday planning |
 
 ## Full file structure (as it exists)
 
@@ -48,9 +49,10 @@ logs/
   gym.md                              gym sessions (newest first)
   YYYY-MM.md                          general daily notes
 notes/
-  holidays.md                         trip and holiday planning
   meals.md                            meal ideas by category
 projects/
+  holidays/
+    notes.md                          trip and holiday planning
   health-fitness/
     training-plan.md                  current training plan with exercise guide
   archie/
