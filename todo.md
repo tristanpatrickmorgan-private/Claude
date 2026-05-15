@@ -14,6 +14,7 @@
 - [ ] London trip — confirm with Grandmother (Guildford, Tue 14 Jul) — blocker for booking flights
 - [ ] Book London flights — Ryanair, 8 July outbound + 15 July return from London
 - [ ] Book car hire for London trip (8–15 July)
+- [ ] Decide on RBC Young Boys dinner — 22 June
 
 ## Done
 - [x] 2026-04-29 — Ask Marie to call the plastic place to fix the roof box (too expensive — moving to DIY investigation)
