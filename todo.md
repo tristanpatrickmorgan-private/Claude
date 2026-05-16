@@ -8,8 +8,8 @@
 - [ ] Fix daily/weekly email schedule — GitHub Actions cron delayed by hours. Options: nudge cron off top-of-hour (e.g. `23 4 * * *`), or use external cron service hitting `repository_dispatch`
 - [ ] Register Electrolux appliance for warranty
 - [ ] Book Archie doctor follow-up for ear infection — by 2026-08-10 (3 months after diagnosis)
-- [ ] Wedding anniversary (4 June) — book dinner and arrange babysitter
-- [ ] Lisa & Johan's party (6 June) — arrange babysitter
+- [ ] Wedding anniversary (4 June) — book dinner
+- [ ] Lisa & Johan's party (6 June) — decide Eloise arrangement (overnight or evening only)
 - [ ] London trip — confirm Alfie & Harriet once baby is born (Sun 12 Jul; fallback: free day in London)
 - [ ] Book car hire for London trip (7–15 July)
 - [ ] Travel bed for Archie — decide: buy & ship to F&P, or buy & bring (adding a 2nd baby equipment slot to Archie's ticket on Ryanair)
@@ -26,3 +26,5 @@
 - [x] 2026-05-16 — London trip — Will HJ and Kian confirmed (Sat 11 Jul)
 - [x] 2026-05-16 — London trip — Ciara dropped (busy)
 - [x] 2026-05-16 — Buy new wax tablecloth (Textilvaxduk linfärgad ljusgrå from Selfmade)
+- [x] 2026-05-16 — Babysitter booked for wedding anniversary (4 June)
+- [x] 2026-05-16 — Babysitter booked for Lisa & Johan's party (6 June) — Eloise arrangement still tbd
