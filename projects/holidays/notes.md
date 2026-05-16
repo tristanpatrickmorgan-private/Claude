@@ -225,5 +225,6 @@ Late September can touch 30°C, so May is the only safe window.
 ## To do
 - [ ] Confirm Alfie & Harriet (Sun 12 Jul) once baby is born — fallback is free day in London
 - [ ] Book car hire for London trip (7–15 July)
+- [ ] Buy travel bed for Archie — deliver to Freddie & Poppy (Suffolk) ahead of 7 July
 - [ ] Plan Gausta and Sannäs timing around weather and wedding
 - [ ] Look into end of May / early June long weekend options (drivable or direct flight from Gothenburg)
