@@ -26,3 +26,4 @@ Tracking early waking issue. Started logging 2026-04-28.
 | 2026-05-13 | 7:30pm | 5:05am | Yes (blocks) | 6:20am | - | Quiet in ~15-min blocks after being told to lie down. Slept 5:45–6:20am. |
 | 2026-05-14 | 7:30pm | 5:05am | Yes | 6:20am | - | Told to lie down — quiet 15 mins, told again. Slept until 6:20am. Brought to parents' bed at 6:20. |
 | 2026-05-15 | 7:30pm | 5:00am | Yes (water) | 5:50am | - | Woke 5am — given water, resettled. Slept until 5:50am. Brought to parents' bed at 6am. |
+| 2026-05-16 | 7:30pm | 5:10am | No | — | - | Told to lie down — didn't settle but not too sad. |
