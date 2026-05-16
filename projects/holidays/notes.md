@@ -31,13 +31,13 @@
 | Who | Where | Availability / notes |
 |---|---|---|
 | Ed & Milou | Croxley/Watford | ✓ Confirmed. Base 9–14 Jul — dinner with Rob & Jamie Fri 10th |
-| Freddie & Poppy | Suffolk | Available first two weeks July — staying night of 8th |
+| Freddie & Poppy | Suffolk | ✓ Confirmed. Staying night of 8th |
 | Alfie & Harriet | London | Very pregnant — priority. Sun 12th |
 | Ciara | London | Sun 12th |
 | Will HJ | London | Available weekends — Sat 11th |
 | Kian | London | Available weekend of 11/12 — Sat 11th |
 | Ioanna | London | ✓ Confirmed. Lunch Mon 13th |
-| Grandmother | Guildford | ⚠️ Pending — vital confirmation before booking flights. Tue 14th |
+| Grandmother | Guildford | ✓ Confirmed. Tue 14th |
 | Rob & Jamie | North London | Fri 10th dinner at Ed's |
 | Angus (brother) | Bristol | ✓ Confirmed. Tue night – Wed 15th |
 
