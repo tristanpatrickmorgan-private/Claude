@@ -24,7 +24,7 @@
 | 9 Jul | Thu | F&P morning. Leave lunchtime → Ed's, Croxley (~2hr) — arrive mid-afternoon |
 | 10 Jul | Fri | Free day — explore London. Dinner party prep + dinner at Ed's with Rob & Jamie |
 | 11 Jul | Sat | Will HJ + Kian |
-| 12 Jul | Sun | Ciara + Alfie & Harriet |
+| 12 Jul | Sun | Alfie & Harriet if able (depends on baby); otherwise explore London |
 | 13 Jul | Mon | Ioanna — lunch |
 | 14 Jul | Tue | Grandmother, Guildford. After visit: drive to Bristol (~2hr, over naptime) — arrive Angus's |
 | 15 Jul | Wed | Angus, Bristol. Leave midday → drive to London (~2hr) → 19:00 flight home to Gothenburg |
@@ -34,10 +34,9 @@
 |---|---|---|
 | Ed & Milou | Croxley/Watford | ✓ Confirmed. Base 9–14 Jul — dinner with Rob & Jamie Fri 10th |
 | Freddie & Poppy | Suffolk | ✓ Confirmed. Staying nights of 7th and 8th |
-| Alfie & Harriet | London | Very pregnant — priority. Sun 12th |
-| Ciara | London | Sun 12th |
-| Will HJ | London | Available weekends — Sat 11th |
-| Kian | London | Available weekend of 11/12 — Sat 11th |
+| Alfie & Harriet | London | ⚠️ Can't confirm until baby is born — Sun 12th if able, otherwise free day in London |
+| Will HJ | London | ✓ Confirmed. Sat 11th |
+| Kian | London | ✓ Confirmed. Sat 11th |
 | Ioanna | London | ✓ Confirmed. Lunch Mon 13th |
 | Grandmother | Guildford | ✓ Confirmed. Tue 14th |
 | Rob & Jamie | North London | Fri 10th dinner at Ed's |
@@ -219,7 +218,7 @@ Late September can touch 30°C, so May is the only safe window.
 **Status:** Nothing booked — revisit when ready to plan a specific slot.
 
 ## To do
-- [ ] Confirm London dates with remaining parties (Will HJ, Kian, Ciara, Alfie & Harriet)
+- [ ] Confirm Alfie & Harriet (Sun 12 Jul) once baby is born — fallback is free day in London
 - [ ] Book car hire for London trip (7–15 July)
 - [ ] Plan Gausta and Sannäs timing around weather and wedding
 - [ ] Look into end of May / early June long weekend options (drivable or direct flight from Gothenburg)

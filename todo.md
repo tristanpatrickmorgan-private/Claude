@@ -10,7 +10,7 @@
 - [ ] Book Archie doctor follow-up for ear infection — by 2026-08-10 (3 months after diagnosis)
 - [ ] Wedding anniversary (4 June) — book dinner and arrange babysitter
 - [ ] Lisa & Johan's party (6 June) — arrange babysitter
-- [ ] London trip — confirm with remaining parties: Will HJ, Kian, Ciara, Alfie & Harriet
+- [ ] London trip — confirm Alfie & Harriet once baby is born (Sun 12 Jul; fallback: free day in London)
 - [ ] Book car hire for London trip (7–15 July)
 - [ ] Decide on RBC Young Boys dinner — 22 June
 
@@ -21,3 +21,5 @@
 - [x] 2026-05-16 — London trip — Grandmother confirmed (flight blocker cleared)
 - [x] 2026-05-16 — London trip — Freddie & Poppy confirmed
 - [x] 2026-05-16 — Book London flights — Ryanair WUERQV, 7 Jul FR965 (out 10:50→11:45) + 15 Jul FR966 (back 19:00→21:50)
+- [x] 2026-05-16 — London trip — Will HJ and Kian confirmed (Sat 11 Jul)
+- [x] 2026-05-16 — London trip — Ciara dropped (busy)
