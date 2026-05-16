@@ -12,7 +12,8 @@
 - [ ] Lisa & Johan's party (6 June) — arrange babysitter
 - [ ] London trip — confirm Alfie & Harriet once baby is born (Sun 12 Jul; fallback: free day in London)
 - [ ] Book car hire for London trip (7–15 July)
-- [ ] Buy travel bed for Archie — deliver to Freddie & Poppy (Suffolk) ahead of 7 July
+- [ ] Travel bed for Archie — decide: buy & ship to F&P, or buy & bring (adding a 2nd baby equipment slot to Archie's ticket on Ryanair)
+- [ ] Verify Ryanair baggage allowance for WUERQV — confirm 3×20kg checked, Eloise's buggy+car seat, Archie's baby equipment (car seat) already added
 - [ ] Decide on RBC Young Boys dinner — 22 June
 
 ## Done
