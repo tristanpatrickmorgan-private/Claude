@@ -7,31 +7,33 @@
 ---
 
 ## London (early July — replaces Ireland)
-- **Dates:** 8–15 July (fly 8 July, back for wedding 18 July)
+- **Dates:** 7–15 July (fly 7 July, back for wedding 18 July)
 - **Base:** Ed & Milou, Croxley/Watford — staying with them 9–14 July
-- **Flights:** Ryanair ~SEK 1,000 each return. Return: evening flight 15 July from London (drive from Bristol ~2hr)
-- **Car hire:** Hiring a car throughout
-- **Passengers:** Marie, Tristan, Archie (x3) — Eloise free as infant
-- **Estimated total: SEK 3,000**
-- **Status:** Plan drafted — confirming with all parties
+- **Flights:** ✓ Booked — Ryanair, ref **WUERQV**
+  - Outbound: 7 July, FR965, Göteborg Landvetter 10:50 → London Stansted 11:45
+  - Return: 15 July, FR966, London Stansted 19:00 → Göteborg Landvetter 21:50
+- **Car hire:** Hiring a car throughout — not yet booked
+- **Passengers:** Tristan, Marie, Archie (child), Eloise (infant)
+- **Status:** Flights booked, confirming with remaining parties
 
 ### Itinerary
 | Date | Day | Plan |
 |---|---|---|
-| 8 Jul | Wed | Fly Gothenburg → London (lands 14:30). Drive to Suffolk (~1.5hr) — arrive Freddie & Poppy early evening |
-| 9 Jul | Thu | Freddie & Poppy morning. Leave lunchtime → Ed's, Croxley (~2hr) — arrive mid-afternoon |
+| 7 Jul | Tue | Fly Gothenburg → London (lands 11:45). Drive to Suffolk (~1.5hr) — arrive Freddie & Poppy early afternoon |
+| 8 Jul | Wed | Full day with Freddie & Poppy, Suffolk |
+| 9 Jul | Thu | F&P morning. Leave lunchtime → Ed's, Croxley (~2hr) — arrive mid-afternoon |
 | 10 Jul | Fri | Free day — explore London. Dinner party prep + dinner at Ed's with Rob & Jamie |
 | 11 Jul | Sat | Will HJ + Kian |
 | 12 Jul | Sun | Ciara + Alfie & Harriet |
 | 13 Jul | Mon | Ioanna — lunch |
 | 14 Jul | Tue | Grandmother, Guildford. After visit: drive to Bristol (~2hr, over naptime) — arrive Angus's |
-| 15 Jul | Wed | Angus, Bristol. Leave midday → drive to London (~2hr) → evening flight home to Gothenburg |
+| 15 Jul | Wed | Angus, Bristol. Leave midday → drive to London (~2hr) → 19:00 flight home to Gothenburg |
 
 ### People to see
 | Who | Where | Availability / notes |
 |---|---|---|
 | Ed & Milou | Croxley/Watford | ✓ Confirmed. Base 9–14 Jul — dinner with Rob & Jamie Fri 10th |
-| Freddie & Poppy | Suffolk | ✓ Confirmed. Staying night of 8th |
+| Freddie & Poppy | Suffolk | ✓ Confirmed. Staying nights of 7th and 8th |
 | Alfie & Harriet | London | Very pregnant — priority. Sun 12th |
 | Ciara | London | Sun 12th |
 | Will HJ | London | Available weekends — Sat 11th |
@@ -52,7 +54,7 @@
 | Date | Event |
 |---|---|
 | 6 July | Preschool closes |
-| 8–15 July | London & Bristol |
+| 7–15 July | London & Bristol |
 | 18 July | Wedding, Karlstad, Sweden |
 | 19 July – 3 Aug | Norway / Sweden (see below) |
 | 3 August | Preschool reopens |
@@ -217,8 +219,7 @@ Late September can touch 30°C, so May is the only safe window.
 **Status:** Nothing booked — revisit when ready to plan a specific slot.
 
 ## To do
-- [ ] Confirm London dates with all parties
-- [ ] Book London flights — Ryanair, 8 July outbound + 15 July return from London
-- [ ] Book car hire for London trip (8–15 July)
+- [ ] Confirm London dates with remaining parties (Will HJ, Kian, Ciara, Alfie & Harriet)
+- [ ] Book car hire for London trip (7–15 July)
 - [ ] Plan Gausta and Sannäs timing around weather and wedding
 - [ ] Look into end of May / early June long weekend options (drivable or direct flight from Gothenburg)
