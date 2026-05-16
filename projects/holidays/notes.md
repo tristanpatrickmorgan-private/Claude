@@ -60,6 +60,24 @@
 
 ---
 
+## Car ferry routes — Gothenburg to England
+
+No direct ferry between Scandinavia and England exists (as of May 2026 — Bergen Cruise Line Newcastle revival announced but not yet operating). All viable options use Stena Line Gothenburg → Kiel as the first leg (overnight, ~15hrs), then drive through Germany and the Netherlands or France.
+
+| Option | Route | Driving leg | Second ferry | Journey type |
+|---|---|---|---|---|
+| A | Gothenburg → Kiel (overnight) → IJmuiden → Newcastle (overnight) | ~550km / ~5.5hrs | DFDS IJmuiden–Newcastle (~17hrs, overnight) | Two overnight ferries — arrives north England |
+| B | Gothenburg → Kiel (overnight) → Hook of Holland → Harwich (day crossing) | ~500km / ~5hrs | Stena Hook–Harwich (~7hrs, 2x daily) | One overnight + one day ferry — best for London/Suffolk |
+| C | Gothenburg → Kiel (overnight) → Calais → Dover (short crossing) | ~700km / ~6hrs | P&O or DFDS Calais–Dover (~90min, every 30–90 mins) | One overnight + short hop — most flexible, no second overnight |
+
+**Best option for London trips:** Option B (Hook of Holland → Harwich). Shorter drive than Calais, reasonable day crossing, drops you close to Suffolk/London.
+
+**Best option for north England / Scotland:** Option A (IJmuiden → Newcastle). Two overnights but minimal daytime driving.
+
+**Best for flexibility:** Option C (Calais → Dover). Crossings every 30–90 minutes, no booking pressure, but longest drive.
+
+---
+
 ## Key dates
 | Date | Event |
 |---|---|
