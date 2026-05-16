@@ -29,12 +29,17 @@
 | 14 Jul | Tue | Grandmother, Guildford. After visit: drive to Bristol (~2hr, over naptime) — arrive Angus's |
 | 15 Jul | Wed | Angus, Bristol. Leave midday → drive to London (~2hr) → 19:00 flight home to Gothenburg |
 
+### Alternate plans (in consideration)
+- **Grandmother to Sun 12 Jul** (instead of Tue 14 Jul) — frees up Tue for extra Bristol time
+- **Earlier Bristol arrival** — either Mon 13 Jul night, or first thing Tue 14 Jul, giving Angus more time
+- **Alfie & Harriet slots** (depending on baby): Mon 13 Jul morning or afternoon, or Fri 10 Jul during free London day
+
 ### People to see
 | Who | Where | Availability / notes |
 |---|---|---|
 | Ed & Milou | Croxley/Watford | ✓ Confirmed. Base 9–14 Jul — dinner with Rob & Jamie Fri 10th |
 | Freddie & Poppy | Suffolk | ✓ Confirmed. Staying nights of 7th and 8th |
-| Alfie & Harriet | London | ⚠️ Can't confirm until baby is born — Sun 12th if able, otherwise free day in London |
+| Alfie & Harriet | London | ⚠️ Can't confirm until baby is born — possible slots: Sun 12th, Mon 13th (am/pm), or Fri 10th |
 | Will HJ | London | ✓ Confirmed. Sat 11th |
 | Kian | London | ✓ Confirmed. Sat 11th |
 | Ioanna | London | ✓ Confirmed. Lunch Mon 13th |
