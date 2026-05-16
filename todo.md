@@ -5,7 +5,7 @@
 - [ ] UK tax return
 - [ ] Swedish tax return
 - [ ] Research lawnmowers
-- [ ] Buy new wax tablecloth
+- [ ] Fix daily/weekly email schedule — GitHub Actions cron delayed by hours. Options: nudge cron off top-of-hour (e.g. `23 4 * * *`), or use external cron service hitting `repository_dispatch`
 - [ ] Register Electrolux appliance for warranty
 - [ ] Book Archie doctor follow-up for ear infection — by 2026-08-10 (3 months after diagnosis)
 - [ ] Wedding anniversary (4 June) — book dinner and arrange babysitter
@@ -25,3 +25,4 @@
 - [x] 2026-05-16 — Book London flights — Ryanair WUERQV, 7 Jul FR965 (out 10:50→11:45) + 15 Jul FR966 (back 19:00→21:50)
 - [x] 2026-05-16 — London trip — Will HJ and Kian confirmed (Sat 11 Jul)
 - [x] 2026-05-16 — London trip — Ciara dropped (busy)
+- [x] 2026-05-16 — Buy new wax tablecloth (Textilvaxduk linfärgad ljusgrå from Selfmade)
