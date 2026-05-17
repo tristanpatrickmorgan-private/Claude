@@ -15,6 +15,7 @@
 - [ ] Travel bed for Archie — decide: buy & ship to F&P, or buy & bring (adding a 2nd baby equipment slot to Archie's ticket on Ryanair)
 - [ ] Verify Ryanair baggage allowance for WUERQV — confirm 3×20kg checked, Eloise's buggy+car seat, Archie's baby equipment (car seat) already added
 - [ ] Decide on RBC Young Boys dinner — 22 June
+- [ ] Investigate and buy a longer charging cable for the Tesla at home
 
 ## Done
 - [x] 2026-04-29 — Ask Marie to call the plastic place to fix the roof box (too expensive — moving to DIY investigation)
