@@ -2,7 +2,7 @@ name: Daily Summary Email
 
 on:
   schedule:
-    - cron: '0 5 * * *'  # 7am Swedish time (CEST, UTC+2)
+    - cron: '23 4 * * *'  # 06:23 Swedish time (CEST, UTC+2) — off-hour to dodge GHA cron queue
   workflow_dispatch:      # allows manual trigger from GitHub for testing
 
 env:

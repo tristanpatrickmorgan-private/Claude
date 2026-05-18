@@ -5,7 +5,6 @@
 - [ ] UK tax return
 - [ ] Swedish tax return
 - [ ] Research lawnmowers
-- [ ] Fix daily/weekly email schedule — GitHub Actions cron delayed by hours. Options: nudge cron off top-of-hour (e.g. `23 4 * * *`), or use external cron service hitting `repository_dispatch`
 - [ ] Register Electrolux appliance for warranty
 - [ ] Book Archie doctor follow-up for ear infection — by 2026-08-10 (3 months after diagnosis)
 - [ ] Wedding anniversary (4 June) — book dinner
@@ -29,3 +28,4 @@
 - [x] 2026-05-16 — Buy new wax tablecloth (Textilvaxduk linfärgad ljusgrå from Selfmade)
 - [x] 2026-05-16 — Babysitter booked for wedding anniversary (4 June)
 - [x] 2026-05-16 — Babysitter booked for Lisa & Johan's party (6 June) — Eloise arrangement still tbd
+- [x] 2026-05-18 — Fix email schedule — moved daily to 04:23 UTC (06:23 Stockholm) and weekly to 05:23 UTC Sun (07:23 Stockholm) to dodge top-of-hour GHA queue (was ~5hr late)

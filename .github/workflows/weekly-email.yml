@@ -2,7 +2,7 @@ name: Weekly Review Email
 
 on:
   schedule:
-    - cron: '0 6 * * 0'  # 8am Sunday Swedish time (CEST, UTC+2)
+    - cron: '23 5 * * 0'  # 07:23 Sunday Swedish time (CEST, UTC+2) — off-hour to dodge GHA cron queue
   workflow_dispatch:      # allows manual trigger from GitHub for testing
 
 env:
