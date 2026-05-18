@@ -17,6 +17,11 @@
 
 ---
 
+## Reading sessions log
+- 2026-05-18: before bed (Sun night) + bus to work this morning
+
+---
+
 ## Books read
 
 ### Parenting & childcare
