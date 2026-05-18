@@ -28,3 +28,4 @@ Tracking early waking issue. Started logging 2026-04-28.
 | 2026-05-15 | 7:30pm | 5:00am | Yes (water) | 5:50am | - | Woke 5am — given water, resettled. Slept until 5:50am. Brought to parents' bed at 6am. |
 | 2026-05-16 | 7:30pm | 5:10am | No | — | - | Told to lie down — didn't settle but not too sad. |
 | 2026-05-17 | 7:30pm | 5:00am | Yes (quickly) | 6:00am | - | Woke 5am — back to sleep quickly. Woke again 6am, came to parents' bed. |
+| 2026-05-18 | 7:30pm | 5:20am | No | — | - | Told to lie down twice — didn't settle. Brought to parents' bed at 6am. Not super sad. |
