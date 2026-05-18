@@ -93,5 +93,27 @@ The correct Aug 2024 close (per the derived model above) is **£184,654.51**, no
 
 - [ ] UK 2025/26 tax return — mortgage interest **£7,829.88** (full year ✓)
 - [ ] UK 2024/25 tax return (if not already filed) — mortgage interest **£3,576.30** + fee **£1,749.00** = **£5,325.30**
-- [ ] Swedish 2025 tax return — mortgage interest **£6,955.02** + fee **£1,749.00** = **£8,704.02** total deductible
+- [ ] Swedish 2025 tax return — see `Tax_Filing_Guide_2025.docx` for the full breakdown
 - [ ] Swedish 2024 tax return — mortgage interest **£2,803.66**
+
+## 2025 filing — key open issues (before filing)
+
+See `Tax_Filing_Guide_2025.docx` for full detail. Headlines:
+
+1. **Schablonavdrag base** — strict Skatteverket reading is 20% × gross rent (not net of commission). Your 2024 return used net-of-commission. Confirm with accountant. Difference for 2025: ~£235 of Swedish tax.
+2. **Vanguard CGT cost basis** — Swedish law uses original acquisition date in SEK at then-FX (no rebasing at Swedish move). Need Vanguard contribution history (date + GBP per contribution) to compute genomsnittsmetoden properly. Current calc is a Nov 2021 approximation.
+3. **Mortgage product fee £1,749** — Box 8.1 deductibility uncertain. Conservative: exclude. Aggressive: include with note. Differential ~£525 of Swedish tax.
+4. **UK 25/26 SA timing** — Swedish FTC only credits *finalised* UK tax. File UK first, or claim partial and amend later via omprövning.
+
+## Spreadsheet tabs (`Tax_Return.xlsx`)
+
+| Tab | What it is |
+|---|---|
+| `76A Ingelow Road` | Monthly rental income/expenses (Knight Frank statements) |
+| `Santander` | Monthly mortgage table (interest + fees, by UK + Swedish year) |
+| `Tax 24-25` | UK 24/25 + Swedish 2024 tax calc (verification) |
+| `Tax 25-26` | UK 25/26 + Swedish 2025 tax calc — **this year's filing** |
+| `Capital Gains 2025` | Vanguard ISA sale CGT calc |
+| `HSBC Interest` | Monthly UK savings interest, by tax year |
+
+All formulas; edit parameters at top of each tax sheet and totals recompute.
