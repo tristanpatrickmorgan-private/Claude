@@ -10,10 +10,10 @@
 ## Currently reading
 - *No-Drama Discipline* — Daniel J. Siegel & Tina Payne Bryson (54%)
 - *The Book You Wish Your Parents Had Read* — Philippa Perry (38%)
+- *The Almost Nearly Perfect People* — Michael Booth
 
 ## Up next
 - *The Trusted Advisor* — David Maister, Charles Green & Robert Galford
-- *The Almost Nearly Perfect People* — Michael Booth
 - *Working in Sweden: The A–Z Guide* — Anne Pihl & Sofi Tegsveden Deveaux
 - *Working with Swedes* — Carin Nordström et al.
 - *Sweden — Culture Smart!* — Charlotte J. DeWitt
