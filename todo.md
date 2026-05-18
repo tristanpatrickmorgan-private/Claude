@@ -11,7 +11,7 @@
 - [ ] Lisa & Johan's party (6 June) — decide Eloise arrangement (overnight or evening only)
 - [ ] London trip — confirm Alfie & Harriet once baby is born (Sun 12 Jul; fallback: free day in London)
 - [ ] Book car hire for London trip (7–15 July)
-- [ ] Buy travel bed for Archie and bring it — free as his 2nd baby equipment item (Ryanair policy: 2 free per child). Verify the existing "Babyutrustning" on his ticket wasn't a paid extra.
+- [ ] Buy travel bed for Archie — bring under his Babyutrustning slot (Plan B agreed)
 - [ ] Decide on RBC Young Boys dinner — 22 June
 - [ ] Investigate and buy a longer charging cable for the Tesla at home
 

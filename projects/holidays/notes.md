@@ -20,16 +20,34 @@
 - Fare class: **Plus** on all tickets (priority, allocated seat, 1 checked bag)
 - **Tristan** (+ infant Eloise): 20kg checked, seat 23F out / 24A back
 - **Marie**: 20kg checked, seat 23D out / 24C back
-- **Archie**: 20kg checked + **Babyutrustning** (car seat), seat 23E out / 24B back
+- **Archie**: 20kg checked + **Babyutrustning** (registered), seat 23E out / 24B back
 - **Total paid**: 9,838.54 SEK (Amex ending 1001)
 
 ### Baby equipment policy (Ryanair, verified May 2026)
 **2 free baby equipment items per child** at check-in. Items: pushchair / buggy / car seat / booster / travel cot. Tagged at check-in desk or boarding gate. Extras beyond the 2 free: paid (max 20kg each).
-- **Eloise** (infant): 2 free — plan pushchair + car seat
-- **Archie** (child 2–11): 2 free — plan car seat + travel cot (the bed)
-- **Implication**: travel bed for Archie can come along **free** as his 2nd item. No need to ship one to F&P, no need to add another paid Babyutrustning.
-- **To confirm on the booking screen**: is the "Babyutrustning" already listed on Archie's ticket a paid line or just a free registration? Either way the policy room is there.
-- Car seat constraint: forward-facing, width ≤17" / 43cm, 5-point harness, aircraft-approved.
+Car seat constraint: forward-facing, width ≤17" / 43cm, 5-point harness, aircraft-approved.
+
+### Packing plan (Option B — agreed)
+
+**Checked bags (3 × 20kg)**
+| Bag | Allocated to | Contents |
+|---|---|---|
+| 1 | Tristan's ticket | Parents' clothes (combined) |
+| 2 | Marie's ticket | Kids' clothes (combined) |
+| 3 | Archie's ticket | **Open — 20kg spare capacity** (extra kit, gifts, light packing) |
+
+**Archie's Babyutrustning slot (on ticket)**
+- **Travel bed** — buy in Sweden, bring under this slot (slot is designed for bulky baby gear; cot ~8–13kg, ~110cm)
+
+**Free at gate (2 per child)**
+| Child | Item 1 | Item 2 |
+|---|---|---|
+| Eloise | Pushchair | Car seat |
+| Archie | Pushchair* | Car seat |
+
+*If using a double buggy instead of 2 singles, one of Archie's free slots is spare — could be used for booster, portable high chair, etc.
+
+**Open question**: was the Babyutrustning on Archie's ticket a paid extra or a free pre-registration? Check Ryanair "Manage booking" → Avgifter. Doesn't change the plan, just whether you saved anything.
 
 ### Itinerary
 | Date | Day | Plan |
