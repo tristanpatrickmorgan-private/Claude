@@ -21,9 +21,15 @@
 - **Tristan** (+ infant Eloise): 20kg checked, seat 23F out / 24A back
 - **Marie**: 20kg checked, seat 23D out / 24C back
 - **Archie**: 20kg checked + **Babyutrustning** (car seat), seat 23E out / 24B back
-- Eloise (infant): standard Ryanair allowance — 1 pushchair + 1 car seat free at the gate (presumed, not itemised in email — verify on Ryanair site)
 - **Total paid**: 9,838.54 SEK (Amex ending 1001)
-- **Decision pending**: add a 2nd Babyutrustning to Archie's ticket for travel bed? If yes, no need to ship one to F&P.
+
+### Baby equipment policy (Ryanair, verified May 2026)
+**2 free baby equipment items per child** at check-in. Items: pushchair / buggy / car seat / booster / travel cot. Tagged at check-in desk or boarding gate. Extras beyond the 2 free: paid (max 20kg each).
+- **Eloise** (infant): 2 free — plan pushchair + car seat
+- **Archie** (child 2–11): 2 free — plan car seat + travel cot (the bed)
+- **Implication**: travel bed for Archie can come along **free** as his 2nd item. No need to ship one to F&P, no need to add another paid Babyutrustning.
+- **To confirm on the booking screen**: is the "Babyutrustning" already listed on Archie's ticket a paid line or just a free registration? Either way the policy room is there.
+- Car seat constraint: forward-facing, width ≤17" / 43cm, 5-point harness, aircraft-approved.
 
 ### Itinerary
 | Date | Day | Plan |
@@ -252,6 +258,6 @@ Late September can touch 30°C, so May is the only safe window.
 ## To do
 - [ ] Confirm Alfie & Harriet (Sun 12 Jul) once baby is born — fallback is free day in London
 - [ ] Book car hire for London trip (7–15 July)
-- [ ] Travel bed for Archie — decide: buy & ship to F&P, or buy & bring (2nd Babyutrustning slot on Archie's ticket)
+- [ ] Travel bed for Archie — buy and bring as Archie's 2nd free baby equipment item (Ryanair policy: 2 free per child). Confirm "Babyutrustning" on Archie's ticket wasn't paid extra.
 - [ ] Plan Gausta and Sannäs timing around weather and wedding
 - [ ] Look into end of May / early June long weekend options (drivable or direct flight from Gothenburg)
