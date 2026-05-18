@@ -16,11 +16,14 @@
 - **Passengers:** Tristan, Marie, Archie (child), Eloise (infant)
 - **Status:** Flights booked, confirming with remaining parties
 
-### Baggage (working assumption — verify against Ryanair confirmation)
-- 3 × 20kg checked bags: 1 parents, 1 kids, 1 buggy or travel bed
-- Eloise's infant ticket: 1 buggy + 1 car seat included (standard)
-- Archie's ticket: 1 baby equipment added — Archie's car seat
-- **Open question:** add a 2nd baby equipment to Archie's ticket for travel bed or buggy? If yes, no need to buy + ship a travel bed to F&P — we can buy it and bring it ourselves.
+### Baggage (confirmed from reseplan 16 May)
+- Fare class: **Plus** on all tickets (priority, allocated seat, 1 checked bag)
+- **Tristan** (+ infant Eloise): 20kg checked, seat 23F out / 24A back
+- **Marie**: 20kg checked, seat 23D out / 24C back
+- **Archie**: 20kg checked + **Babyutrustning** (car seat), seat 23E out / 24B back
+- Eloise (infant): standard Ryanair allowance — 1 pushchair + 1 car seat free at the gate (presumed, not itemised in email — verify on Ryanair site)
+- **Total paid**: 9,838.54 SEK (Amex ending 1001)
+- **Decision pending**: add a 2nd Babyutrustning to Archie's ticket for travel bed? If yes, no need to ship one to F&P.
 
 ### Itinerary
 | Date | Day | Plan |
@@ -249,7 +252,6 @@ Late September can touch 30°C, so May is the only safe window.
 ## To do
 - [ ] Confirm Alfie & Harriet (Sun 12 Jul) once baby is born — fallback is free day in London
 - [ ] Book car hire for London trip (7–15 July)
-- [ ] Travel bed for Archie — decide: buy & ship to F&P, or buy & bring (2nd baby equipment slot on Archie's ticket)
-- [ ] Verify Ryanair baggage allowance for WUERQV (3×20kg checked, Eloise buggy+car seat, Archie car seat already added)
+- [ ] Travel bed for Archie — decide: buy & ship to F&P, or buy & bring (2nd Babyutrustning slot on Archie's ticket)
 - [ ] Plan Gausta and Sannäs timing around weather and wedding
 - [ ] Look into end of May / early June long weekend options (drivable or direct flight from Gothenburg)

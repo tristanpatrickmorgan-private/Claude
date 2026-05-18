@@ -12,7 +12,6 @@
 - [ ] London trip — confirm Alfie & Harriet once baby is born (Sun 12 Jul; fallback: free day in London)
 - [ ] Book car hire for London trip (7–15 July)
 - [ ] Travel bed for Archie — decide: buy & ship to F&P, or buy & bring (adding a 2nd baby equipment slot to Archie's ticket on Ryanair)
-- [ ] Verify Ryanair baggage allowance for WUERQV — confirm 3×20kg checked, Eloise's buggy+car seat, Archie's baby equipment (car seat) already added
 - [ ] Decide on RBC Young Boys dinner — 22 June
 - [ ] Investigate and buy a longer charging cable for the Tesla at home
 
@@ -29,3 +28,4 @@
 - [x] 2026-05-16 — Babysitter booked for wedding anniversary (4 June)
 - [x] 2026-05-16 — Babysitter booked for Lisa & Johan's party (6 June) — Eloise arrangement still tbd
 - [x] 2026-05-18 — Fix email schedule — moved daily to 04:23 UTC (06:23 Stockholm) and weekly to 05:23 UTC Sun (07:23 Stockholm) to dodge top-of-hour GHA queue (was ~5hr late)
+- [x] 2026-05-18 — Verify Ryanair baggage allowance for WUERQV — confirmed 3×20kg checked, Babyutrustning on Archie's ticket (both legs), all Plus fare; Eloise pushchair+car seat presumed standard
