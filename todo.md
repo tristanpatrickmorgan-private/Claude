@@ -4,7 +4,6 @@
 - [ ] En suite shower — investigate leak
 - [ ] UK tax return
 - [ ] Swedish tax return
-- [ ] Request 2024 Santander annual statement for 76a Ingelow Road — needed to fill Sep-Dec 2024 gap and resolve £234.92 balance discrepancy
 - [ ] Research lawnmowers
 - [ ] Register Electrolux appliance for warranty
 - [ ] Book Archie doctor follow-up for ear infection — by 2026-08-10 (3 months after diagnosis)

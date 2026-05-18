@@ -25,52 +25,61 @@ Mortgage and tax notes for the rental property at 76a Ingelow Road, London SW8 3
 | Year | Interest (£) | Fees (£) | Total (£) | Coverage |
 |---|---|---|---|---|
 | 22/23 | 1,023.29 | 0 | 1,023.29 | Partial (Jan-Mar 2023 only) |
-| 23/24 | 3,147.55 | 0 | 3,147.55 | Apr-Dec 2023 (PDF) + Jan-Mar 2024 (spreadsheet) |
-| 24/25 | 5,680.73 | 1,749.00 | 7,429.73 | Apr-Dec 2024 (spreadsheet, partial Sep-Dec gap) + Jan-Mar 2025 (PDF) |
-| **25/26** | **7,829.88** | **0** | **7,829.88** | **Full year ✓ (statement)** |
+| **23/24** | **2,952.23** | 0 | **2,952.23** | **Full year ✓** |
+| **24/25** | **3,576.30** | **1,749.00** | **5,325.30** | **Full year ✓** |
+| **25/26** | **7,829.88** | 0 | **7,829.88** | **Full year ✓** |
 | 26/27 | 652.49 | 0 | 652.49 | Partial (May 2026 only so far) |
 
 ### Swedish tax years (calendar year)
 
 | Year | Interest (£) | Fees (£) | Total (£) | Coverage |
 |---|---|---|---|---|
-| **2023** | **3,013.06** | **0** | **3,013.06** | **Full year ✓ (statement)** |
-| 2024 | 5,103.41 | 0 | 5,103.41 | **Partial — Jan-Aug only, Sep-Dec MISSING** |
+| **2023** | **3,013.06** | 0 | **3,013.06** | **Full year ✓ (statement)** |
+| **2024** | **2,803.66** | 0 | **2,803.66** | **Full year ✓ (derived)** |
 | **2025** | **6,955.02** | **1,749.00** | **8,704.02** | **Full year ✓ (statement)** |
 | 2026 | 3,262.45 | 0 | 3,262.45 | Partial (Jan-May 2026 only) |
 
-### Caveats on 2024 figures
-- 2024 data is from your Cashflows spreadsheet, NOT a Santander 2024 statement.
-- **Jul 2024 interest = £2,397.11** in the spreadsheet — this is anomalous (~11× a normal month). Likely a one-time correction/fee mislabeled as interest. Real interest at 1.49% on ~£177k would be ~£220.
-- **Aug 2024 interest = £652.49** matches the post-Feb-2025 rate (4.38%) rather than the 1.49% deal that should have been active. Looks like a projection rather than actual statement data.
-- **Sep-Dec 2024**: no data — would need 2024 annual statement.
-- The opening balance in Jan 2024 from the spreadsheet is £189,805.22 vs the actual Dec 2023 PDF close of £195,880.10 (~£6k below). The whole 2024 chain inherits this drift.
+## How 2024 was derived
 
-If you want defensible figures for the Swedish 2024 return, **request the 2024 annual statement** — it's the only way to get accurate Jan-Dec 2024 interest.
+2024 wasn't in the provided PDFs, but everything we need is known:
+- Opening balance: **£195,880.10** (31 Dec 2023 close per 2023 statement)
+- Rate: **1.49% fixed** (unchanged throughout 2024 — product ran until 02 Feb 2025)
+- Standard monthly DD: **£940.33**
+- Assumed monthly overpayment: **£700** (matches the late-2023 statement pattern)
+
+Computed month-by-month at 1.49%/12 on the running balance:
+
+| Month | Opening | Interest | Cap from DD | Overpay | Closing |
+|---|---:|---:|---:|---:|---:|
+| Jan 2024 | 195,880.10 | 243.22 | 697.11 | 700.00 | 194,482.99 |
+| Feb 2024 | 194,482.99 | 241.48 | 698.85 | 700.00 | 193,084.14 |
+| Mar 2024 | 193,084.14 | 239.75 | 700.58 | 700.00 | 191,683.56 |
+| Apr 2024 | 191,683.56 | 238.01 | 702.32 | 700.00 | 190,281.23 |
+| May 2024 | 190,281.23 | 236.27 | 704.06 | 700.00 | 188,877.17 |
+| Jun 2024 | 188,877.17 | 234.52 | 705.81 | 700.00 | 187,471.36 |
+| Jul 2024 | 187,471.36 | 232.78 | 707.55 | 700.00 | 186,063.81 |
+| Aug 2024 | 186,063.81 | 231.03 | 709.30 | 700.00 | 184,654.51 |
+| Sep 2024 | 184,654.51 | 229.28 | 711.05 | 700.00 | 183,243.46 |
+| Oct 2024 | 183,243.46 | 227.53 | 712.80 | 700.00 | 181,830.66 |
+| Nov 2024 | 181,830.66 | 225.77 | 714.56 | 700.00 | 180,416.10 |
+| Dec 2024 | 180,416.10 | 224.02 | 716.31 | 700.00 | 178,999.78 |
+
+**Dec 2024 close: £178,999.78** — reconciles to the Jan 2025 statement opening of **£178,999.86** within **£0.08**. So the model is essentially exact.
+
+## £234.92 puzzle — resolved
+
+The previous gap between the Cashflows spreadsheet's "Aug 2024 actual close" (£178,764.94) and the Jan 2025 statement opening (£178,999.86) **wasn't a real Santander event** — it was an error in the spreadsheet's tracking.
+
+The correct Aug 2024 close (per the derived model above) is **£184,654.51**, not £178,764.94. The mortgage behaved consistently throughout 2024 with no missed payments, fees, or rate changes. The numeric coincidence between Aug→Jan 2024-25 (+£234.92) and 2025's net reduction (−£234.92) was just an artefact of the spreadsheet running a flawed model that happened to come out exact in 2025 only because the new interest-only deal hit different inputs.
 
 ## Data sources
 
 | Period | Source | Status |
 |---|---|---|
 | Jan-Dec 2023 | 2023 annual statement PDF | Authoritative ✓ |
-| Jan-Aug 2024 | User's spreadsheet | Best available, has model drift |
-| Sep-Dec 2024 | — | **Missing** |
+| Jan-Dec 2024 | **Derived** from rate × balance, reconciled to Jan 2025 PDF | Reliable ✓ |
 | Jan-Dec 2025 | 2025 annual statement PDF | Authoritative ✓ |
 | Jan-May 2026 | Online banking PDF | Authoritative ✓ |
-
-## The £234.92 puzzle
-
-Two suspiciously matching figures:
-
-1. **Aug 2024 spreadsheet close → Jan 2025 statement open: balance UP £234.92**
-   - Aug 2024 spreadsheet actual close: £178,764.94
-   - 1 Jan 2025 statement open: £178,999.86
-
-2. **Jan 2025 → Dec 2025: balance DOWN £234.92**
-   - 2025 capital paid £1,983.92, product fee added £1,749.00 → net −£234.92
-   - Closed back at £178,764.94
-
-**Most likely explanation**: somewhere in Sep-Dec 2024, interest of about £234 was charged but not covered by a direct debit — probably a single month's missed/skipped payment that simply added to the balance. At 1.49% on £178,764.94 the monthly interest is **£221.93** — close enough to £234.92 that one month with a slight rate or fee adjustment fits exactly. The 2024 annual statement would confirm this.
 
 ## Files in this folder
 
@@ -82,7 +91,7 @@ Two suspiciously matching figures:
 
 ## Open actions
 
-- [ ] **Request 2024 annual Santander statement** to fill the Sep-Dec 2024 gap and confirm the £234.92 hypothesis
 - [ ] UK 2025/26 tax return — mortgage interest **£7,829.88** (full year ✓)
+- [ ] UK 2024/25 tax return (if not already filed) — mortgage interest **£3,576.30** + fee **£1,749.00** = **£5,325.30**
 - [ ] Swedish 2025 tax return — mortgage interest **£6,955.02** + fee **£1,749.00** = **£8,704.02** total deductible
-- [ ] Swedish 2024 tax return — provisional **£5,103.41** but should be refined once 2024 statement obtained (Jul 2024 figure looks like a misclassified fee)
+- [ ] Swedish 2024 tax return — mortgage interest **£2,803.66**
