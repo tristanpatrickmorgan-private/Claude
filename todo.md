@@ -14,6 +14,7 @@
 - [ ] Buy travel bed for Archie — bring under his Babyutrustning slot (Plan B agreed)
 - [ ] Decide on RBC Young Boys dinner — 22 June
 - [ ] Investigate and buy a longer charging cable for the Tesla at home
+- [ ] Set up Claude access for Marie — add as GitHub collaborator on this repo, get her started on the free Claude mobile app, upgrade to Pro ($20/mo) if she finds it limiting
 
 ## Done
 - [x] 2026-04-29 — Ask Marie to call the plastic place to fix the roof box (too expensive — moving to DIY investigation)
