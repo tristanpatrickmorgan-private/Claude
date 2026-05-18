@@ -14,6 +14,9 @@
 ## Up next
 - *The Trusted Advisor* — David Maister, Charles Green & Robert Galford
 - *The Almost Nearly Perfect People* — Michael Booth
+- *Working in Sweden: The A–Z Guide* — Anne Pihl & Sofi Tegsveden Deveaux
+- *Working with Swedes* — Carin Nordström et al.
+- *Sweden — Culture Smart!* — Charlotte J. DeWitt
 
 ---
 
