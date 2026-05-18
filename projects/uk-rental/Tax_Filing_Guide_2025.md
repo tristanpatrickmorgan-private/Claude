@@ -1,224 +1,203 @@
 # UK & Swedish Tax Returns 2025 — Guide & Working
 
-**Property:** 76a Ingelow Road, London SW8 3PF
+**Property:** 76a Ingelow Road, London SW8 3PF (UK leasehold flat with share of freehold)
 **Filer:** Tristan Morgan, Swedish tax resident since 25 November 2021
 **Tax year covered:** UK 2025/26 (6 Apr 2025 – 5 Apr 2026) and Swedish 2025 (calendar year)
 
 ---
 
-## Critical findings from research before you file
+## Critical findings — what's confirmed and what's ambiguous
 
-Three items need a decision or verification **before** filing the Swedish return tomorrow.
+### 1. Property classification (Swedish tax) — privatbostadsfastighet
 
-### 1. Schablonavdrag base — gross rent vs. net-of-commission
+UK leasehold flat with share of freehold is classified as **privatbostadsfastighet** for Swedish tax purposes, not privatbostadsrätt.
 
-Per Skatteverket's rättslig vägledning (Inkomstskattelagen 42 kap. 30–31 §§) and SKV 398 "Hur man deklarerar sin bostad i utlandet", a privately owned dwelling let out — even abroad — is a **privatbostad**. Allowed deductions:
+**Why**: privatbostadsrätt requires membership in a *privatbostadsföretag* (Swedish ekonomisk förening / AB providing housing to members, or foreign equivalent). A UK freehold management company holding the freehold for *leaseholders* doesn't qualify — leaseholders own a property interest (a long lease), not a membership share whose primary purpose is housing the holders. Skatteverket treats it like an ägarlägenhet equivalent.
 
-- SEK 40,000 schablonavdrag per dwelling, per year
-- **PLUS 20% of the rent** (because the UK flat is freehold-equivalent, i.e. privatbostadsfastighet)
+**Implication**: schablonavdrag formula = **40,000 SEK + 20% of rental income** (not "40k + actual avgift" which would apply to bostadsrätt). Service charges to the freehold management company are NOT separately deductible.
 
-The 20% is applied to **gross rent**, not rent net of agent commission. **Actual costs (agent commission, maintenance, insurance) are not separately deductible** under schablonavdrag.
+*Sources*: [Skatteverket — Bostad utomlands](https://www.skatteverket.se/privat/fastigheterochbostad/bostadutomlands.4.233f91f71260075abe8800033670.html), [SKV 398](https://skatteverket.se/download/18.6e8a1495181dad54084157/1708609332774/Deklarera%20bostad%20i%20utlandet.pdf), 2 kap. 2 § and 17 § IL.
 
-**Implication for you**
+### 2. Schablonavdrag base — gross or net of commission?
 
-Your 2024 filed return used £24,571 (rent net of Knight Frank commission) as the base for the 20% deduction, giving Box 7.3 = SEK 225,457.
+Skatteverket distinguishes between two arrangements:
 
-The strict reading would use the gross rent (£29,406 in 2024) as the base, which would give a higher Box 7.3 (~SEK 277,000).
+> **"When the agency is considered a landlord"** — the agency rents out the home in their own name and handles advertising, agreements, cleaning and tenant access. In this case, you only report what you receive net of the agency's fee.
 
-**Action**: confirm with your accountant which interpretation they used. Some practitioners treat agent-retained commission as "not received" by the landlord (so the base is the net the landlord actually got). The strict Inkomstskattelagen reading is gross.
+> **"When the agency only mediates"** — you report the gross rent (including the agency's commission) and cannot deduct the commission separately.
 
-If the strict reading applies, your filed 2024 return understated income by ~£4,000 of base → ~£235 of additional Swedish tax. The same issue would apply for 2025.
+**The legal test** is whether the agency rents *in their own name* — i.e., whose name is on the tenancy agreement with the tenant.
 
-### 2. Vanguard ISA — Genomsnittsmetoden (no rebasing on Swedish move)
+- **Standard UK lettings agency model** (most common): the tenancy is between the owner (you) and the tenant. The agency is named as agent for the landlord, collects rent on the landlord's behalf, deducts commission, pays the net. → strict reading is gross.
+- **Sublet / guaranteed-rent model**: the agency leases from the owner, then sublets in own name. → net of commission.
 
-Skatteverket does **not** rebase your cost basis when you become Swedish-resident. The cost basis for shares/funds acquired before moving is **the original acquisition cost in SEK at the original acquisition-date FX rate** — even if that's pre-2021.
+**Indicator** in your data: Knight Frank charges you a separate **Letting Commission** (~£3,145 in 2023, ~£3,430 in 2024) when a new tenancy is signed. That's classic agent behaviour — they wouldn't bill the landlord a letting fee if they were the sublessor.
 
-**Implication for you**
+**Decision for you tomorrow**: confirm whether the tenancy agreement is signed *between you and the tenant* (agent model → gross applies strictly) or *between Knight Frank and the tenant* (sublet → net is correct).
 
-My current calc uses the 25 Nov 2021 value (£23,031.31) as cost basis, which is **wrong per strict Swedish law**. You need the genomsnittsmetoden (weighted-average) cost basis across all your actual Vanguard contributions, each converted at its acquisition-date FX rate.
+You can defensibly file either way given the operational complexity, but if your tenancy names you as landlord, the strict reading is gross.
 
-The Vanguard statement shows you started in Sept 2020 and contributed ~£19,500 over time. If most was before Nov 2021 at GBP/SEK rates around 11.50–12.00, the SEK cost basis would be lower than my Nov 2021 figure → the gain would be **higher** → more Swedish tax.
+**Your 2024 filed return used net-of-commission.** The spreadsheet keeps that as the primary calc (consistent with prior year). A "strict gross" memo block at the bottom shows the differential (~£1,215 more Swedish tax for 2025 if you switch to gross).
 
-**Action**: pull the Vanguard transaction history (date + GBP amount for each contribution). I can then build a proper genomsnittsmetoden calc. Without it, my CGT figure is a rough approximation — for filing tomorrow, mark it as provisional and amend later if needed.
+*Sources*: [Skatteverket — Hyresinkomster och annan avkastning](https://www4.skatteverket.se/rattsligvagledning/edition/2025.2/326151.html), [Rättslig vägledning förmedling](https://www4.skatteverket.se/rattsligvagledning/edition/2023.14/348280.html).
 
-### 3. Mortgage product fee deductibility (£1,749 Feb 2025)
+### 3. Vanguard ISA cost basis — genomsnittsmetoden (resolved)
 
-Skatteverket has no published guidance specifically on UK mortgage arrangement fees:
-- If treated as compensation for credit (interest-equivalent) → deductible in Box 8.1
-- If treated as pure administrative fee → not deductible
+No rebasing on becoming Swedish-resident. The cost basis = original GBP cost × FX rate at original acquisition date. Since all your contributions were Sept 2020 – Oct 2021 (before your move), I've built the calc using monthly FX estimates.
 
-**Conservative position**: exclude (deduct only £6,955 mortgage interest in Box 8.1)
-**Aggressive position**: include with a note in Övriga upplysningar explaining you treat the fee as economically equivalent to interest
+**New Vanguard CGT figures (using estimated FX rates)**:
+- Sum of 14 contributions: £19,508.82
+- Cost basis: ~SEK 228,492 (estimate — verify the FX rates in the spreadsheet against Riksbanken's monthly averages)
+- Sale proceeds: SEK 386,681
+- Gain: ~SEK 158,188
+- Swedish tax @ 30%: ~SEK 47,456
 
-Differential: 30% × £1,749 = ~£525 of Swedish tax. Worth a brief call to your accountant.
+This is **SEK 13,310 more tax** (~£1,030) than the Nov 2021 value approach.
 
-### 4. Foreign tax credit timing (avräkning utländsk skatt)
+**Action**: open the `Capital Gains 2025` tab. Yellow cells (column C) are my estimated monthly FX rates. Pull the actual Riksbanken monthly averages from [riksbank.se → search exchange rates](https://www.riksbank.se/en-gb/statistics/interest-rates-and-exchange-rates/search-annual-and-monthly-average-exchange-rates/) and paste over my estimates. Everything else recalculates.
 
-Skatteverket only credits **finalised** UK tax, not provisional. UK 25/26 SA must be filed and assessed before you can claim it as a credit against Swedish 2025 tax.
+*Sources*: 44 kap. 14 § IL; [Skatteverket — Utländsk valuta](https://www4.skatteverket.se/rattsligvagledning/edition/2025.1/2818.html).
 
-**Implication for you**
+### 4. Mortgage product fee (£1,749 Feb 2025) — not deductible
 
-If you file the Swedish 2025 return **before** the UK 25/26 SA is finalised, you can only claim FTC for the 3/12 portion of finalised UK 24/25 (filed) + any other already-finalised UK tax. The 9/12 portion of UK 25/26 has to wait.
+HFD case law (**RÅ 1997 ref. 63** in particular) explicitly rejects uppläggningsavgifter (arrangement / product fees) as ränteutgift. Interest is defined in **RÅ 1987 ref. 78** as "förutsebar ersättning för kredit beräknad utifrån kreditbelopp och kredittid" — a fixed up-front fee unrelated to amount × time fails the definition.
 
-Options:
-- File Sweden first, claim partial FTC, then file omprövning (amended return) once UK 25/26 is finalised to claim the rest
-- File UK 25/26 first, then Sweden with full FTC
+**Implication**: do **not** include the £1,749 in Box 8.1. Box 8.1 = mortgage interest only (£6,955 for calendar 2025).
 
-Your apportionment method (3/12 prior + 9/12 current) is defensible — Skatteverket doesn't publish a fixed formula but accepts "reasonable and consistent" allocation. Document the working in Övriga upplysningar.
+*Sources*: [Skatteverket — Avdrag för ränteutgifter](https://www.skatteverket.se/privat/deklaration/avdragforprivatpersoner/avdragforranteutgifter.106.1b39a64a1919eabb488b87.html), [Rättslig vägledning §2836](https://www4.skatteverket.se/rattsligvagledning/edition/2025.2/2836.html).
+
+### 5. Foreign tax credit timing
+
+Only **finalised** UK tax counts. If UK 25/26 SA hasn't been filed/assessed before the Swedish 2025 return, you can claim:
+- Full 3/12 of finalised UK 24/25
+- Partial of UK 25/26 only if finalised
+
+Otherwise: file Sweden with partial credit, then file omprövning once UK 25/26 is finalised to claim the rest.
+
+Your apportionment method (3/12 prior + 9/12 current) is defensible. Document it in Övriga upplysningar.
 
 ---
 
 ## Where everything goes on the Swedish return (INK1)
 
 ### Inkomster — Tjänst (Box 1)
-- Box 1.1: Salary (~SEK 800,000) — already on the förtryckt return
+- Box 1.1: Salary (~SEK 800,000) — förtryckt
 
 ### Inkomster — Kapital (Box 7)
-| Box | Item | Source |
+
+| Box | Item | Source / value |
 |---|---|---|
-| 7.1 | Schablonintäkter (deemed income from Swedish funds/ISK) | Förtryckt — verify |
-| **7.2** | **Ränteinkomster — HSBC interest** | **£211.26 → ~SEK 2,730** (from `HSBC Interest` tab) |
-| **7.3** | **Överskott vid uthyrning av privatbostad** | **From `Tax 25-26` rental calc — see critical issue #1** |
-| **7.4** | **Kapitalvinst — Vanguard ISA sale** | **From `Capital Gains 2025` tab — see critical issue #2** |
+| 7.1 | Schablonintäkter (Swedish ISK / fund deemed income) | Förtryckt — verify |
+| **7.2** | **Ränteinkomster — HSBC interest (full year 2025)** | **£211.26 → SEK 2,730** (from `HSBC Interest` tab) |
+| **7.3** | **Överskott vid uthyrning av privatbostad** | **From `Tax 25-26` rental calc — see issue #2 above** |
+| **7.4** | **Kapitalvinst — Vanguard ISA sale** | **From `Capital Gains 2025` tab (verify FX)** |
 
 ### Avdrag — Kapital (Box 8)
-| Box | Item | Source |
+
+| Box | Item | Value |
 |---|---|---|
-| **8.1** | **Ränteutgifter — UK mortgage interest** | **£6,955 → ~SEK 89,876** (see critical issue #3 re: fees) |
+| **8.1** | **Ränteutgifter — UK mortgage interest only** | **£6,955 → ~SEK 89,876** (excl. product fee) |
 
-### Bilagor (attachments)
-- **K4 avsnitt A** — required for the Vanguard ISA sale. List: antal/units, försäljningspris, omkostnadsbelopp, vinst
-- **SKV 2703** — claim form for foreign tax credit (avräkning utländsk skatt)
+### Bilagor
+- **K4 avsnitt A** — Vanguard ISA sale: list units, försäljningspris (SEK), omkostnadsbelopp (SEK), vinst
+- **SKV 2703** — Avräkning utländsk skatt claim
 
-### Övriga upplysningar (free text)
-- State: "Avräkning utländsk skatt", with calculation of apportioned UK tax
-- Note treatment of any uncertain items (e.g. product fee in Box 8.1 if claiming)
-- State FX rates used and source (Riksbanken annual averages)
-- Note rental income source and that UK tax is paid on it (DTA Art. 6 / Art. 24)
+### Övriga upplysningar
+- Rental income source, UK tax paid, apportionment method
+- FX rates used and source (Riksbanken)
+- Note 1.49 % rate ran to 02/03/2025, then 4.38 % fixed to 02/05/2027
 
 ---
 
 ## Where everything goes on the UK return (SA100 / SA105)
 
-### SA100 (main return)
+### SA100 (main)
 | Box | Item | Value |
 |---|---|---|
-| TR3 box 2 | Untaxed UK interest (HSBC) | ~£242 (calendar 25-26 UK tax year credits) |
+| TR3 box 2 | Untaxed UK interest (HSBC) | ~£242 |
 
 ### SA105 (UK property)
 | Box | Item | Value |
 |---|---|---|
-| 20 | Total rents received | ~£32,271 (gross, UK 25/26) |
+| 20 | Total rents received (gross) | ~£32,271 |
 | 20.2 | Traditional accounting basis | X |
 | 25 | Property repairs and maintenance | ~£7,943 |
 | 27 | Legal, management and other professional fees | ~£2,859 (Knight Frank) |
-| 38 | Adjusted profit for the year | (auto: 20 − 25 − 27) ~£21,469 |
+| 38 | Adjusted profit for the year | ~£21,469 |
 | 40 | Taxable profit for the year | ~£21,469 |
 | 44 | Residential property finance costs | ~£7,830 (mortgage interest) |
 
-UK tax outcome: rental profit £21,469 − Personal Allowance £12,570 = £8,899 × 20% = £1,780 basic rate tax. Less 20% × £7,830 financing credit = £1,566. **Net UK tax = ~£214.**
+**UK 25/26 net tax**: ~£214 (after 20% financing-cost credit)
 
-HSBC interest (~£242) is below the £1,000 Personal Savings Allowance, so no additional UK tax. Still report it.
+HSBC interest sits under the £1,000 PSA → no additional UK tax. Still report.
 
 ---
 
-## FX rates used
+## FX rates
 
-| Period | Rate (SEK per GBP) | Source |
+| Period | Rate | Source |
 |---|---|---|
-| Riksbanken 2024 annual avg | 13.50453 | Used for Swedish 2024 return |
-| **Riksbanken 2025 annual avg** | **12.92163** | **For Swedish 2025 return (most items)** |
-| Riksbanken Nov 2021 monthly avg | 11.84728 | Vanguard cost basis (approximate — see issue #2) |
-| Riksbanken Jun 2025 monthly avg | 12.9485 | Vanguard sale price |
-
-Per Skatteverket guidance, the annual average is accepted for recurring income (rent, interest). Specific transactions (CGT cost/proceeds) use date-of-transaction or monthly-average rates.
+| Riksbanken 2024 annual avg | 13.50453 | 2024 return |
+| **Riksbanken 2025 annual avg** | **12.92163** | **For 2025 return — most line items** |
+| Riksbanken Sep 2020 – Oct 2021 (monthly) | various (~11.21 – 11.95) | Vanguard cost basis — **estimates in spreadsheet, verify** |
+| Riksbanken Jun 2025 monthly | 12.9485 | Vanguard sale |
 
 ---
 
-## Tax payable (estimated)
+## Tax payable (headline)
 
-### Headline numbers for Swedish 2025
+### Swedish 2025 (using net-of-commission base for rental, gross genomsnittsmetoden for Vanguard)
 
-Using net-of-commission base (per your filed 2024 method):
+| Item | SEK |
+|---:|---:|
+| Box 7.2 — HSBC interest | 2,730 |
+| Box 7.3 — Rental net (schablonavdrag applied) | ~258,094 |
+| Box 7.4 — Vanguard CGT (estimated FX) | ~158,188 |
+| Subtotal capital income | ~418,952 |
+| Less Box 8.1 — Mortgage interest | (89,876) |
+| Net capital base | ~329,076 |
+| Swedish tax @ 30% | ~98,723 |
+| Less UK FTC | (~5,600) |
+| **Swedish tax payable 2025** | **~SEK 93,123 (~£7,210)** |
 
-| Item | GBP | SEK |
-|---|---:|---:|
-| Box 7.2 — HSBC interest | 211 | 2,730 |
-| Box 7.3 — Rental (after schablonavdrag) | 19,975 | 258,094 |
-| Box 7.4 — Vanguard CGT | 6,832 (approx) | ~113,822 (approx) |
-| Total capital income | | ~374,646 |
-| Box 8.1 — Mortgage interest (excl. product fee) | (6,955) | (89,876) |
-| **Net capital base** | | **~284,770** |
-| Swedish tax @ 30% | | ~85,431 |
-| Less: UK FTC (apportioned) | | ~5,600 |
-| **Swedish tax payable 2025** | **~£6,180** | **~SEK 79,831** |
-
-Using gross-rent base (strict reading):
-
-Add ~SEK 27,580 to Box 7.3, → +30% × SEK 27,580 = ~SEK 8,274 more Swedish tax = **~SEK 88,105 total**.
+### Differential if switching to gross-rent base for schablonavdrag
+- +£4,049 to Box 7.3 → +~£1,215 Swedish tax (~SEK 15,700 more)
 
 ### UK 25/26
-
-| Item | GBP |
-|---|---:|
-| Property profit | 21,469 |
-| Tax before credit | 1,780 |
-| Less financing credit | (1,566) |
-| **Net UK tax** | **~£214** |
+- Net UK tax: ~£214
 
 ---
 
-## Things to confirm with your accountant or research further
+## Things to confirm before filing tomorrow
 
-1. **Schablonavdrag base** — gross rent or net of commission?
-2. **Vanguard cost basis** — pull contribution history for genomsnittsmetoden
-3. **Mortgage product fee £1,749** — Box 8.1 or not?
-4. **UK 25/26 SA timing** — file UK first to enable full Swedish FTC?
-5. **Schablonintäkter** for 2025 — does förtryckt return show this for your Swedish funds/ISK accounts?
-6. **Tjänstepension** — do you have an occupational pension at work? If NOT, private pension contributions up to 35% salary deductible.
-7. **Capital losses elsewhere** — any underwater holdings to realise in 2025 to offset gains?
+1. **Tenancy agreement** — your name or Knight Frank's? Determines whether net-of-commission position is defensible.
+2. **Vanguard FX rates** — pull from Riksbanken; paste into yellow cells.
+3. **UK 25/26 SA** — filed yet? Affects FTC strategy.
+4. **Schablonintäkter 2025** — does förtryckt show this?
+5. **Capital losses** — any realised in 2025 to offset the Vanguard gain?
 
----
+## What we agreed is NOT available
 
-## Things that are confirmed NOT available (so don't waste time on)
-
-- ROT/RUT for UK property — not in EES, not eligible
-- Travel to UK for property management — swallowed by schablonavdrag, not separately deductible
-- Maintenance/repairs as separate deduction — covered by schablonavdrag
-- Agent commission as separate deduction — covered by schablonavdrag
-- "Rebasing" Vanguard cost basis to Nov 2021 — not a Swedish tax concept
+- ROT/RUT (UK property — not in EES)
+- Travel to UK to manage property (covered by schablonavdrag)
+- Maintenance / repairs as separate deduction (covered by schablonavdrag)
+- Service charges to freehold management co (covered by schablonavdrag)
+- Mortgage product fee as ränteutgift (case law confirms — not deductible)
+- Rebasing Vanguard cost basis to Nov 2021 (no such Swedish provision)
 
 ---
 
-## File structure for future years
-
-In this repo: `projects/uk-rental/`
-
-| File | What it does |
-|---|---|
-| `notes.md` | This file's compact version — overview + tax-year totals |
-| `Tax_Return.xlsx` | Live spreadsheet: 76A Ingelow Road, Santander, Tax 24-25, Tax 25-26, Capital Gains 2025, HSBC Interest |
-| `mortgage-monthly.xlsx` | Mortgage transactions month-by-month |
-| `Tax_Filing_Guide_2025.docx` | This guide |
-| `build_*.py` | Scripts that build the tabs from raw data — re-run them next year with new data |
-
-For 2026 (filing in 2027):
-1. Update `76A Ingelow Road` sheet with each Knight Frank statement
-2. Update `Santander` sheet with each month's interest (or use the Online Banking PDFs)
-3. Update `HSBC Interest` sheet with each month's interest credit
-4. Replicate `Tax 25-26` as `Tax 26-27` — change the parameters at top, formulas auto-update
-5. Update FX rates to 2026 Riksbanken averages
-
----
-
-## Sources
+## Source citations
 
 - [Skatteverket — Bostad utomlands](https://www.skatteverket.se/privat/fastigheterochbostad/bostadutomlands.4.233f91f71260075abe8800033670.html)
-- [SKV 398 — Hur man deklarerar sin bostad i utlandet](https://skatteverket.se/download/18.6e8a1495181dad54084157/1708609332774/Deklarera%20bostad%20i%20utlandet.pdf)
-- [Rättslig vägledning 2025.2 — Privatbostadsfastighet](https://www4.skatteverket.se/rattsligvagledning/edition/2025.2/1944.html)
-- [Skatteverket — Deklarera inkomster från utlandet](https://skatteverket.se/privat/deklaration/deklarerainkomsterfranutlandet.4.71004e4c133e23bf6db8000109217.html)
-- [Skatteverket — Valutakurser till deklarationen (Riksbanken)](https://www.riksbank.se/sv/statistik/rantor-och-valutakurser/valutakurser-till-deklarationen/)
-- [Avdragslexikon — Utländsk bostad](https://www.skatteverket.se/privat/skatter/arbeteochinkomst/avdragforprivatpersoner/u.4.5fc8c94513259a4ba1d800042761.html)
-- [2015 UK-Sweden Double Taxation Convention (as amended 2021)](https://www.gov.uk/government/publications/sweden-tax-treaties/2015-uk-sweden-double-taxation-convention-as-amended-in-2021-in-force)
-- [Rättslig vägledning §2818 — Beskattning av tillgång i utländsk valuta](https://www4.skatteverket.se/rattsligvagledning/edition/2023.15/2818.html)
-- [K4 hjälptext](https://www8.skatteverket.se/hjalptexter/EfInk1k4_aktie.html)
+- [SKV 398 — Deklarera bostad i utlandet](https://skatteverket.se/download/18.6e8a1495181dad54084157/1708609332774/Deklarera%20bostad%20i%20utlandet.pdf)
+- [Skatteverket — Hyresinkomster och annan avkastning](https://www4.skatteverket.se/rattsligvagledning/edition/2025.2/326151.html)
+- [Rättslig vägledning — Förmedlingsföretag](https://www4.skatteverket.se/rattsligvagledning/edition/2023.14/348280.html)
+- [Skatteverket — Utländsk valuta](https://www4.skatteverket.se/rattsligvagledning/edition/2025.1/2818.html)
+- [Skatteverket — Avdrag för ränteutgifter](https://www.skatteverket.se/privat/deklaration/avdragforprivatpersoner/avdragforranteutgifter.106.1b39a64a1919eabb488b87.html)
+- [Rättslig vägledning §2836 — Ränteutgifter](https://www4.skatteverket.se/rattsligvagledning/edition/2025.2/2836.html)
+- 2 kap. 2 § och 17 § IL (privatbostadsföretag)
+- 44 kap. 14 § IL (omkostnadsbelopp)
+- RÅ 1987 ref. 78; RÅ 1997 ref. 44, 63; RÅ 2001 ref. 21 I (definition of interest)
+- [2015 UK-Sweden Double Taxation Convention](https://www.gov.uk/government/publications/sweden-tax-treaties/2015-uk-sweden-double-taxation-convention-as-amended-in-2021-in-force)
+- [Riksbanken — Search annual and monthly average exchange rates](https://www.riksbank.se/en-gb/statistics/interest-rates-and-exchange-rates/search-annual-and-monthly-average-exchange-rates/)
