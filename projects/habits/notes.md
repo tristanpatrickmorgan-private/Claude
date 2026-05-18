@@ -18,7 +18,8 @@
 ---
 
 ## Reading sessions log
-- 2026-05-18: before bed (Sun night) + bus to work this morning
+- 2026-05-17: before bed
+- 2026-05-18: bus to work
 
 ---
 
