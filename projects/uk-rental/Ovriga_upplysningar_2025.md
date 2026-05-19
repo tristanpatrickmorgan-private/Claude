@@ -22,12 +22,10 @@ Working:
 - Apportion calendar 2025: 9/12 × 214 + 3/12 × 1,092 = GBP 161 + 273 = GBP 434
 - × Riksbanken 2025 annual average 12.92163 = SEK 5,608
 
-## 3. Övrigt (free text, max 999 chars — current: 919 chars / 944 bytes)
+## 3. Övrigt (free text, max 999 chars — current: 839 chars / 864 bytes)
 
 ```
-Hyresinkomst 76a Ingelow Road, London (privatbostadsfastighet; leasehold + share of freehold, ej privatbostadsföretag enl. 2 kap. 17 § IL) via förmedlare Knight Frank: schablonavdrag 40 000 + 20% × bruttohyra GBP 32 271 enligt strikt tolkning. Förmedlingsavgift GBP 2 859 ej särskilt avdrag (ingår i schablonavdraget). Box 8.1 endast räntor Santander UK GBP 6 955; uppläggningsavgift GBP 1 749 ej avdragen (RÅ 1997 ref. 63). Box 7.4 Vanguard ISA (ISA utan svensk skattefördel): 4 fonder (FTSE100 UT, VUSA, VMID, VERX) på K4 avsnitt A; genomsnittsmetoden per värdepapper (44 kap. 14 § IL); förvärv 2020–2021 omräknade med Riksbankens månadsmedel; försäljning juni 2025 vid 12,9485. Ingen omvärdering vid inflyttning 25 nov 2021. Delavyttring 15 nov 2021 (FTSE100, 5,0134 andelar) pre-residency, ej redovisad. Avräkning SEK 5 608: 9/12 UK 25/26 (GBP 214) + 3/12 UK 24/25 (GBP 1 092); FX Riksbanken årsmedel 2025 12,92163.
+Hyresinkomst 76a Ingelow Road, London (privatbostadsfastighet; leasehold + share of freehold, ej privatbostadsföretag enl. 2 kap. 17 § IL) via förmedlare Knight Frank: schablonavdrag 40 000 + 20% × bruttohyra GBP 32 271 enligt strikt tolkning. Förmedlingsavgift GBP 2 859 ej särskilt avdrag (ingår i schablonavdraget). Box 8.1 endast räntor Santander UK GBP 6 955; uppläggningsavgift GBP 1 749 ej avdragen (RÅ 1997 ref. 63). Box 7.4 Vanguard ISA (ISA utan svensk skattefördel): 4 fonder (FTSE100 UT, VUSA, VMID, VERX) på K4 avsnitt A; genomsnittsmetoden per värdepapper (44 kap. 14 § IL); förvärv 2020–2021 omräknade med Riksbankens månadsmedel; försäljning juni 2025 vid 12,9485. Ingen omvärdering vid inflyttning 25 nov 2021. Avräkning SEK 5 608: 9/12 UK 25/26 (GBP 214) + 3/12 UK 24/25 (GBP 1 092); FX Riksbanken årsmedel 2025 12,92163.
 ```
 
-Note: 919 Unicode characters but 944 UTF-8 bytes (due to å/ö/§/×/–). Either way under the 999 limit. If the form rejects, drop the property classification parenthetical to shed ~80 chars.
-
-Covers all four positions (gross schablonavdrag, product fee excluded from Box 8.1, multi-fund Vanguard genomsnittsmetoden + pre-residency partial sale, FTC apportionment) with statutory references — the öppen redovisning needed to shield against skattetillägg.
+Covers schablonavdrag (gross), Box 8.1 (interest only, no product fee), Vanguard genomsnittsmetoden per-fund + no rebasing, and FTC apportionment — with statutory references — for öppen redovisning shield against skattetillägg.
