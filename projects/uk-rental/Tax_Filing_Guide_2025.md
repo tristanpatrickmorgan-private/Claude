@@ -27,13 +27,15 @@ Property is **privatbostadsfastighet** for Swedish purposes (leasehold + share o
 
 No rebasing on Swedish residency move. Cost basis = original GBP cost × FX rate at original acquisition date.
 
-All 14 contributions were Sep 2020 – Oct 2021 (none after Nov 2021 move), totalling £19,508.82. Each month's contribution converted at that month's Riksbanken average GBP/SEK.
+**Reality (per K4 working, 19 May 2026):** 46 buy transactions across 4 funds (FTSE 100 UT Acc, VUSA, VMID, VERX) — Sep 2020 to 1 Nov 2021, gross £20,282.34. One pre-residency partial sale (15 Nov 2021 FTSE 100, 5.0134 units) — not on Swedish return; reduces pool only. Each buy converted at Riksbanken monthly Medel GBP/SEK.
 
-**Headline (using estimated FX rates):**
-- Cost basis: ~SEK 228,492 (verify FX in spreadsheet against Riksbank monthly averages)
-- Sale proceeds: SEK 386,681
-- Gain: ~SEK 158,188
-- Swedish tax @ 30%: **~SEK 47,456**
+**Headline (verified FX):**
+- Cost basis (2025 Swedish-relevant): SEK 230,052
+- Sale proceeds (Jun 2025, FX 12.9485): SEK 380,193
+- **Gain: SEK 150,142**
+- Swedish tax @ 30%: **~SEK 45,043**
+
+See `K4-vanguard-working-2025.md` for full per-fund working and the 4 K4 avsnitt A rows.
 
 *Difference vs Nov 2021-value approach: SEK 13,310 more tax (~£1,030). The Nov 2021-value approach is not supported by Swedish law.*
 
@@ -69,7 +71,7 @@ If UK 25/26 SA isn't filed/assessed yet, you can only claim finalised portion no
 | 7.1 | Schablonintäkter (Swedish ISK / fund deemed income) | Förtryckt — verify |
 | **7.2** | **Ränteinkomster — HSBC interest (full year 2025)** | **£211.26 → SEK 2,730** |
 | **7.3** | **Överskott vid uthyrning av privatbostad (GROSS base)** | **~£24,024 → ~SEK 310,394** |
-| **7.4** | **Kapitalvinst — Vanguard ISA sale (genomsnittsmetoden)** | **~SEK 158,188** (verify FX) |
+| **7.4** | **Kapitalvinst — Vanguard ISA sale (genomsnittsmetoden, 4 funds)** | **SEK 150,142** (per K4 working) |
 
 ### Avdrag — Kapital (Box 8)
 
@@ -137,15 +139,16 @@ HSBC interest sits under £1,000 PSA → no additional UK tax. Still report.
 
 | Item | SEK |
 |---:|---:|
-| Box 7.2 — HSBC interest | 2,730 |
-| Box 7.3 — Rental (gross base, schablonavdrag) | ~310,394 |
-| Box 7.4 — Vanguard CGT (genomsnittsmetoden) | ~158,188 |
-| Subtotal capital income | ~471,312 |
+| Box 7.1 — Schablonintäkter (förtryckt) | 18,360 |
+| Box 7.2 — HSBC interest (322 förtryckt + 2,730 HSBC) | 3,052 |
+| Box 7.3 — Rental (gross base, schablonavdrag) | 310,434 |
+| Box 7.4 — Vanguard CGT (genomsnittsmetoden, 4 funds) | 150,142 |
+| Subtotal capital income | 481,988 |
 | Less Box 8.1 — Mortgage interest only | (89,876) |
-| Net capital base | ~381,436 |
-| Swedish tax @ 30% | ~114,431 |
-| Less UK FTC (apportioned, finalised UK 24/25 portion) | (~5,600) |
-| **Swedish tax payable 2025** | **~SEK 108,831 (~£8,425)** |
+| Net capital base | 392,112 |
+| Swedish tax @ 30% | 117,634 |
+| Less UK FTC (full UK 25/26 now finalised + 3/12 UK 24/25 apportion) | (~5,600) |
+| **Swedish tax payable 2025** | **~SEK 112,034 (~£8,670)** |
 
 ### Differential vs less conservative positions
 - Net-of-commission base: −~£1,215 of tax

@@ -10,17 +10,17 @@ FX: Riksbanken monthly average (Medel) GBP/SEK.
 
 ---
 
-## Summary — K4 avsnitt A rows
+## Summary — K4 avsnitt A rows (FINAL)
 
 | Row | Antal | Beteckning | Försäljningspris (SEK) | Omkostnadsbelopp (SEK) | Vinst (SEK) |
 |---|---:|---|---:|---:|---:|
-| 1 | 74.2756 | FTSE 100 Index Unit Trust Accumulation | 173,014 | 99,679 | 73,335 |
-| 2 | 155.0000 | S&P 500 UCITS ETF — Distributing (VUSA) | 168,353 | 98,869 | 69,484 |
+| 1 | 74.2756 | FTSE 100 Index Unit Trust Accumulation | 173,014 | 99,683 | 73,331 |
+| 2 | 155.0000 | S&P 500 UCITS ETF — Distributing (VUSA) | 168,353 | 98,869 | 69,485 |
 | 3 | 45.0000 | FTSE 250 UCITS ETF — Distributing (VMID) | 18,869 | 17,495 | 1,374 |
 | 4 | 42.0000 | FTSE Developed Europe ex UK UCITS ETF — Distributing (VERX) | 19,957 | 14,005 | 5,952 |
-| | | **Total** | **380,193** | **230,048** | **150,145** |
+| | | **Total** | **380,193** | **230,052** | **150,142** |
 
-**Box 7.4 should be ~SEK 150,145** (not 159,808 prefilled — see discrepancy note at end).
+**Box 7.4 should be SEK 150,142** (prefilled shows 159,808 — overstated by ~SEK 9,666 = ~SEK 2,900 of tax).
 
 ---
 
@@ -42,8 +42,8 @@ FX: Riksbanken monthly average (Medel) GBP/SEK.
 | 2021 aug | 11.97744 | ✓ |
 | 2021 sep | 11.87028 | ✓ |
 | 2021 oct | 11.86876 | ✓ |
-| 2021 nov | **11.86 (placeholder)** | ⚠️ **VERIFY against Riksbanken — 1 buy of £400** |
-| 2025 jun | 12.94850 | ⚠️ verify against Riksbanken |
+| 2021 nov | 11.84728 | ✓ verified 19 May 2026 |
+| 2025 jun | 12.94850 | ✓ verified 19 May 2026 |
 
 ---
 
@@ -72,30 +72,30 @@ FX: Riksbanken monthly average (Medel) GBP/SEK.
 | 29 Aug 2021 | 1.5910 | 200.00 | 11.97744 | 2,395.49 |
 | 01 Sep 2021 | 3.1681 | 400.00 | 11.87028 | 4,748.11 |
 | 01 Oct 2021 | 3.2146 | 400.00 | 11.86876 | 4,747.50 |
-| 01 Nov 2021 | 3.0974 | 400.00 | 11.86 (est) | 4,744.00 |
-| **Total** | **79.2890** | **9,104.41** | | **106,406.37** |
+| 01 Nov 2021 | 3.0974 | 400.00 | 11.84728 | 4,738.91 |
+| **Total** | **79.2890** | **9,104.41** | | **106,404.27** |
 
-Average cost = 106,406 / 79.2890 = **1,342.12 SEK/unit**
+Average cost = 106,404.27 / 79.2890 = **1,342.07 SEK/unit**
 
 ### Sales
 
 | Date | Units | GBP | FX | SEK | Swedish? |
 |---|---:|---:|---:|---:|---|
-| 15 Nov 2021 | -5.0134 | 657.26 | 11.86 (est) | 7,795 | ❌ Pre-residency — not declared |
+| 15 Nov 2021 | -5.0134 | 657.26 | 11.84728 | 7,786 | ❌ Pre-residency — not declared |
 | 09 Jun 2025 | -41.7177 | 7,500.00 | 12.94850 | 97,114 | ✓ |
-| 17 Jun 2025 | -32.5579 | 5,861.72 | 12.94850 | 75,901 | ✓ |
+| 17 Jun 2025 | -32.5579 | 5,861.72 | 12.94850 | 75,900 | ✓ |
 
 ### Genomsnittsmetoden working
 
-- Pool at start: 79.2890 units, SEK 106,406, avg 1,342.12
-- 15 Nov 2021 sale (pre-residency): 5.0134 units consumed at avg → SEK 6,729 cost removed from pool
-- Remaining for 2025: 74.2756 units, SEK 99,679 cost basis
+- Pool at start: 79.2890 units, SEK 106,404, avg 1,342.07
+- 15 Nov 2021 sale (pre-residency): 5.0134 units consumed at avg → SEK 6,729 cost removed from pool (not Swedish-relevant)
+- Remaining for 2025: 74.2756 units × 1,342.07 = SEK 99,683 cost basis
 
 ### 2025 K4 row
 
-- Försäljningspris: 97,114 + 75,901 = **SEK 173,014**
-- Omkostnadsbelopp: **SEK 99,679**
-- **Vinst: SEK 73,335**
+- Försäljningspris: 97,114 + 75,900 = **SEK 173,014**
+- Omkostnadsbelopp: **SEK 99,683**
+- **Vinst: SEK 73,331**
 
 ---
 
@@ -134,17 +134,15 @@ Average cost = 98,869 / 155 = **637.86 SEK/unit**
 
 | Date | Units | GBP | FX | SEK |
 |---|---:|---:|---:|---:|
-| 09 Jun 2025 | -90 | 7,544.99 | 12.94850 | 97,684 |
-| 17 Jun 2025 | -65 | 5,456.78 | 12.94850 | 70,649 |
-| **Total** | **155** | **13,001.77** | | **168,333** |
+| 09 Jun 2025 | -90 | 7,544.99 | 12.94850 | 97,696 |
+| 17 Jun 2025 | -65 | 5,456.78 | 12.94850 | 70,657 |
+| **Total** | **155** | **13,001.77** | | **168,353** |
 
 ### K4 row
 
-- Försäljningspris: **SEK 168,333**
+- Försäljningspris: **SEK 168,353**
 - Omkostnadsbelopp: **SEK 98,869**
-- **Vinst: SEK 69,464**
-
-(rounded; total in summary table SEK 69,484 — minor rounding within row totals)
+- **Vinst: SEK 69,485**
 
 ---
 
@@ -215,21 +213,19 @@ Bought and sold same month, both pre-Swedish-residency. Nothing to declare in 20
 ## Discrepancy vs prefilled / guide
 
 - **Prefilled Box 7.4:** SEK 159,808
-- **My recalculation:** SEK ~150,145
-- **Delta:** ~SEK 9,663 too high (~SEK 2,900 tax overpayment at 30%)
+- **Verified recalculation:** SEK 150,142
+- **Delta:** SEK 9,666 too high (~SEK 2,900 tax overpayment at 30%)
 
 The original guide assumed 14 buys in 1 fund totalling £19,508.82. Reality:
 - 46 buy transactions across 4 funds, gross £20,282.34
-- One pre-residency partial sale (FTSE 100, Nov 2021) reducing FTSE 100 pool
-- Total Swedish-relevant 2025 gain ~SEK 150,145
-
-**Action:** Update Box 7.4 to ~SEK 150,145 (final figure pending Nov 2021 + Jun 2025 FX verification).
+- One pre-residency partial sale (FTSE 100, 15 Nov 2021) reducing FTSE 100 pool — not on Swedish return
+- One pre-residency buy-and-sell pair (FTSE Dev Europe ex-U.K. Equity Index Fund Acc, Mar 2021) — excluded
+- Total Swedish-relevant 2025 gain **SEK 150,142**
 
 ## Outstanding before submit
 
-1. ⚠️ Verify Riksbanken **Nov 2021 GBP/SEK Medel** — affects 1× £400 FTSE 100 buy (~±SEK 100 swing)
-2. ⚠️ Verify Riksbanken **Jun 2025 GBP/SEK Medel** = 12.9485? — affects all 4 funds' sale proceeds
-3. Update spreadsheet `Tax_Return.xlsx` "Capital Gains 2025" tab with per-fund breakdown
-4. Update `Tax_Filing_Guide_2025.md` with corrected gain figure
-5. Enter 4 rows on K4 avsnitt A in Skatteverket e-tjänst
-6. Update Box 7.4 in INK1 from 159,808 → ~150,145
+1. Update spreadsheet `Tax_Return.xlsx` "Capital Gains 2025" tab with per-fund breakdown
+2. Update `Tax_Filing_Guide_2025.md` headline with corrected gain (SEK 150,142)
+3. Enter 4 rows on K4 avsnitt A in Skatteverket e-tjänst
+4. Update Box 7.4 in INK1: **159,808 → 150,142**
+5. Draft Övriga upplysningar paragraph (template in Tax_Filing_Guide_2025.md) — note multi-fund K4 and pre-residency Nov 2021 sale treatment
