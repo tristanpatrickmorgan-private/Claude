@@ -68,8 +68,24 @@ Why:
 7. Print preview → order
 8. Once 2025 is done, save the template — 2026 will be much faster
 
-## Open questions
+## Decisions (locked 2026-05-20)
 
-- [ ] Format: A4 portrait vs square?
-- [ ] Test a 40-page mini-CEWE first, or commit to full 100-page version?
-- [ ] Captioned with dates/places, or photos only?
+- **Format:** Square (coffee-table feel)
+- **Scope:** Commit straight to the full ~100-page book — no mini test order
+- **Captions:** Light — some, not all. Place + a sentence where it adds something; otherwise let the photos breathe
+- **Supplier:** CEWE Fotobok (start there, see file above for rationale)
+
+## Next steps
+
+- [ ] Pick the exact square size on CEWE (commonly 21×21 cm, 30×30 cm — 30×30 is the "real" coffee-table size, ~150–200 SEK premium)
+- [ ] Choose paper (matte vs premium silk — silk recommended for a series, hides fingerprints)
+- [ ] Choose cover style (printed photo wrap vs linen with title)
+- [ ] Download CEWE desktop app, import the ~300 curated 2025 photos
+- [ ] Use auto-layout as starting template → tweak page-by-page on subsequent date nights
+- [ ] Decide chapter structure (month dividers Jan–Dec, or thematic — trips / family / home / kids)
+
+## Open questions (resolved 2026-05-20)
+
+- ~~Format: A4 portrait vs square?~~ → Square
+- ~~Test a 40-page mini-CEWE first, or commit to full 100-page version?~~ → Full commit
+- ~~Captioned with dates/places, or photos only?~~ → Light captions where they add something
