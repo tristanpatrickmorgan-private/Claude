@@ -1,15 +1,27 @@
 # Date Night Planning
 
-## Menu — Option B (Light and elegant)
+## Menu (locked 2026-05-19 for tomorrow)
+
+**Starter:** Watermelon, feta and mint salad
+- Cube watermelon (~400g), crumble feta (~100g) on top, scatter torn mint, drizzle good olive oil, squeeze lime, finish with cracked black pepper and flaky salt
+- Cold, sweet/salty, takes 5 mins to assemble. Serve immediately.
+
+**Main:** Spaghetti with prawns and 'nduja
+- Heat olive oil in a wide pan, fry 2 minced garlic cloves 30s
+- Add 1–2 tbsp 'nduja, let it melt and break down (1–2 mins) — it'll turn the oil red
+- Add halved cherry tomatoes (~250g), simmer 2–3 mins until they collapse
+- Splash of pasta water if dry
+- Add peeled raw prawns (~250–300g), cook 2 mins until pink
+- Toss with cooked al dente spaghetti (~200g for two), lemon zest, parsley
+- Finish with extra-virgin olive oil and black pepper
+
+Total active cooking time: ~15 mins.
+
+---
+
+## Previous menu (Option B — superseded)
 
 **Starter:** Burrata with roasted cherry tomatoes and prosciutto
-- Roast cherry tomatoes in the afternoon (olive oil, salt, 20 mins at 180°C) — just assemble in the evening
-- Serve at room temperature with prosciutto draped alongside, good olive oil, black pepper, fresh basil
+**Main:** Sea bass with capers, lemon and brown butter + tender stem broccoli
 
-**Main:** Sea bass with capers, lemon and brown butter, with tender stem broccoli
-- Fry sea bass skin-side down in olive oil, 4–5 mins until skin is crisp, flip for 1 min
-- Remove fish, add butter to the pan, let it foam and go golden (2–3 mins), add capers and a squeeze of lemon
-- Pour brown butter sauce over the fish
-- Steam or blanch tender stem broccoli alongside, 3–4 mins
-
-Total active cooking time in the evening: ~20 mins.
+Swap reason: had a burrata starter ~2 weeks ago — wanted something fresher / different for warm weather. Prawns + 'nduja chosen over sea bass for novelty. Vongole and crab ruled out (Marie cooks vongole often, finds crab heavy).
