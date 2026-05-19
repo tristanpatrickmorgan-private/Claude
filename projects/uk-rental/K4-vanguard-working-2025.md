@@ -14,13 +14,13 @@ FX: Riksbanken monthly average (Medel) GBP/SEK.
 
 | Row | Antal | Beteckning | Försäljningspris (SEK) | Omkostnadsbelopp (SEK) | Vinst (SEK) |
 |---|---:|---|---:|---:|---:|
-| 1 | 74.2756 | FTSE 100 Index Unit Trust Accumulation | 173,014 | 99,683 | 73,331 |
-| 2 | 155.0000 | S&P 500 UCITS ETF — Distributing (VUSA) | 168,353 | 98,869 | 69,485 |
-| 3 | 45.0000 | FTSE 250 UCITS ETF — Distributing (VMID) | 18,869 | 17,495 | 1,374 |
+| 1 | 74.2756 | FTSE 100 Index Unit Trust Accumulation | 173,014 | 99,676 | 73,338 |
+| 2 | 155.0000 | S&P 500 UCITS ETF — Distributing (VUSA) | 168,353 | 98,867 | 69,487 |
+| 3 | 45.0000 | FTSE 250 UCITS ETF — Distributing (VMID) | 18,869 | 17,495 | 1,373 |
 | 4 | 42.0000 | FTSE Developed Europe ex UK UCITS ETF — Distributing (VERX) | 19,957 | 14,005 | 5,952 |
-| | | **Total** | **380,193** | **230,052** | **150,142** |
+| | | **Total** | **380,193** | **230,043** | **150,150** |
 
-**Box 7.4 should be SEK 150,142** (prefilled shows 159,808 — overstated by ~SEK 9,666 = ~SEK 2,900 of tax).
+**Box 7.4 should be SEK 150,150** (prefilled was 159,808 — overstated by ~SEK 9,658 = ~SEK 2,900 of tax). Tax_Return.xlsx → "Capital Gains 2025" tab is the canonical source.
 
 ---
 
