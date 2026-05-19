@@ -351,6 +351,38 @@ Researched 19 May 2026. Window: ~20 Sep – 5 Oct 2026. Filter: direct from Goth
 - [ ] Decide between Corfu villa, Malta apt, or Porto self-catering — first preference?
 - [ ] Once preference set, check live Ryanair fares for the specific dates
 
+### Accommodation starting points (researched 19 May 2026)
+
+**Corfu — villa with private pool (the strongest fit per "with young kids" criterion):**
+
+| Option | Where | Notes |
+|---|---|---|
+| Sea Villa Descansa | Agios Gordios | 4BR, pool, sea views, walking distance to beach + village. From €1,890/wk via Prestige Villas of Corfu (prestigevillascorfu.com) |
+| Petrinos Cottage | Dassia | Traditional stone villa, private pool, 5 min walk to St. Nicholas beach. On Expedia |
+| Ikos Dassia Deluxe Villa | Dassia, beachfront | 3BR + pool inside a luxury all-inclusive resort — premium tier (~3–5× cost) but full service if you want hotel-style |
+
+Search sites:
+- Booking.com → Region Corfu → filter Villas + Private pool
+- Vrbo → owner-direct full villas
+- Prestige Villas of Corfu — local specialist, curated
+- Apollo / Ving — Swedish charter operators (package: flights + apartment hotel + transfer)
+
+**Malta — aparthotel on Sliema seafront:**
+
+| Option | Where | Notes |
+|---|---|---|
+| Pebbles Aparthotel | Sliema seafront | Kitchen + fridge-freezer, well-reviewed, bus direct from airport |
+| Alborada Aparthotel | Sliema, ~50m off seafront | Rooftop terrace, 5 min to Sliema ferry |
+| Seafront Apartments by Buena Vista | Fort Cambridge complex, Sliema | Full-kitchen apartments with sea-view terraces, pool |
+| Sliema Townhouse Guest House | Sliema | 6 studio rooms with private kitchenettes (smaller, characterful) |
+| db Seabank Resort (alt — not Sliema) | Mellieha Bay | Family resort tier — kids' club, big pools, beach. Different vibe (resort vs city) |
+
+Search sites:
+- Booking.com → Sliema → filter Aparthotels
+- Hotels.com → Property type: Apart-hotel
+- AX Hotels (axhotelsmalta.com) — Maltese chain incl. db Seabank
+- Apollo / Ving — charter packages from GOT
+
 ## To do
 - [ ] Confirm Alfie & Harriet (Sun 12 Jul) once baby is born — fallback is free day in London
 - [ ] Book car hire for London trip (7–15 July)
