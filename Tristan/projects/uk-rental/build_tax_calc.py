@@ -5,8 +5,8 @@ import openpyxl
 from openpyxl.styles import Font, PatternFill
 from openpyxl.utils import get_column_letter
 
-SRC = '/home/user/Claude/projects/uk-rental/Tax_Return.xlsx'
-DST = '/home/user/Claude/projects/uk-rental/Tax_Return.xlsx'
+SRC = '/home/user/Claude/Tristan/projects/uk-rental/Tax_Return.xlsx'
+DST = '/home/user/Claude/Tristan/projects/uk-rental/Tax_Return.xlsx'
 
 wb = openpyxl.load_workbook(SRC)
 ING = '76A Ingelow Road'

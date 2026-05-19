@@ -9,8 +9,8 @@ from docx import Document
 from docx.shared import Pt, RGBColor, Inches
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 
-MD = '/home/user/Claude/projects/uk-rental/Tax_Filing_Guide_2025.md'
-OUT = '/home/user/Claude/projects/uk-rental/Tax_Filing_Guide_2025.docx'
+MD = '/home/user/Claude/Tristan/projects/uk-rental/Tax_Filing_Guide_2025.md'
+OUT = '/home/user/Claude/Tristan/projects/uk-rental/Tax_Filing_Guide_2025.docx'
 
 INLINE_RE = re.compile(
     r'(\*\*[^*]+\*\*|'           # bold **text**

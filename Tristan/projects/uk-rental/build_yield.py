@@ -2,7 +2,7 @@
 import openpyxl
 from openpyxl.styles import Font, PatternFill
 
-PATH = '/home/user/Claude/projects/uk-rental/Tax_Return.xlsx'
+PATH = '/home/user/Claude/Tristan/projects/uk-rental/Tax_Return.xlsx'
 wb = openpyxl.load_workbook(PATH)
 
 name = "Yield Analysis"

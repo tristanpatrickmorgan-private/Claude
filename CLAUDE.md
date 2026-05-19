@@ -1,127 +1,66 @@
-# My Personal Assistant — Instructions for Claude
+# Household Assistant — Instructions for Claude
 
-This repo is my personal life organiser. Keep everything simple and low-friction.
+This repo is shared between **Tristan** and **Marie** as a couple's personal life organiser. Both interact with Claude independently from their own devices; this CLAUDE.md is loaded by every session.
+
+## Identifying the current user
+
+At the start of every session, identify who's speaking:
+
+1. Run `echo $CLAUDE_CODE_ACCOUNT_UUID` to read the account UUID env var.
+2. Match it against the table below.
+3. If the UUID isn't listed, **ask the user their name and confirm before proceeding**, then add their UUID to the table in this file and commit the update.
+
+| Name | Account UUID | Folder |
+|---|---|---|
+| Tristan | `eb4dc474-699d-4ac5-84a2-c2bc7604c51c` | `Tristan/` |
+| Marie | _(not yet recorded — set on first session)_ | `Marie/` |
+
+Once identified, read `Tristan/CLAUDE.md` or `Marie/CLAUDE.md` for that user's personal routing rules (what they say → which file gets edited). The personal file is the source of truth for **where their content lives**; this root file is the source of truth for **shared rules and boundaries**.
+
+## Edit permissions (social rule, not git-enforced)
+
+| Folder | Tristan edits? | Marie edits? |
+|---|---|---|
+| `Tristan/` (everything except `inbox.md`) | ✅ | ❌ — read only |
+| `Tristan/inbox.md` | ✅ | ✅ — for leaving notes/tasks for Tristan |
+| `Marie/` (everything except `inbox.md`) | ❌ — read only | ✅ |
+| `Marie/inbox.md` | ✅ — for leaving notes/tasks for Marie | ✅ |
+| `Family/` | ✅ | ✅ |
+| Root files (`README.md`, `CLAUDE.md`) | ✅ (with care) | ✅ (with care) |
+
+**Behaviour rules for Claude:**
+- Never edit the other person's folder. If a Tristan-session is asked to add something to Marie's todo, edit `Marie/inbox.md` instead (and tell the user).
+- If a session tries to log something that's clearly the other person's domain, ask first — don't silently write to the wrong place.
+- Reading is always allowed: questions like "what's on Marie's todo?" or "where did we get to on the holiday plan?" should be answered by reading across folders.
+
+## The inbox pattern
+
+`Tristan/inbox.md` and `Marie/inbox.md` are the **only** files each can edit in the other's folder. Use them for:
+- Quick "can you pick up milk" cross-tasks
+- Sharing a thought / link / reminder
+- Anything temporary that the owner will triage into their proper todo / notes
+
+Inboxes are append-only when writing for the other person — don't reorganise or delete entries you didn't add. The owner triages and clears their own inbox.
+
+## Where things go (high-level)
+
+| Topic | Folder |
+|---|---|
+| Personal tasks, notes, projects, logs | Your own folder (`Tristan/` or `Marie/`) |
+| Kids (Archie, Eloise) | `Family/projects/archie/`, `Family/projects/eloise/` |
+| Holiday & trip planning | `Family/projects/holidays/` |
+| Joint shopping list | `Family/shopping.md` |
+| Household / home stuff | `Family/projects/home/` |
+| Date nights & joint plans | `Family/projects/date-night/` |
+| Tasks for the other person | `Tristan/inbox.md` or `Marie/inbox.md` |
+
+For everything else, see the personal `CLAUDE.md` in each user's folder.
 
 ## General rules
+
 - Push directly to main. No branches, no pull requests.
 - Keep changes minimal — don't reformat unrelated content.
 - Today's date is always provided in context. Use it.
-- **After every file change: commit with a clear message, then push.** Every interaction that modifies a file must result in a git commit and a push to remote. This is non-negotiable — do not skip the push.
-
-## Files and where things go
-
-| What I say | What to do |
-|---|---|
-| Add a to-do / task | Append to `todo.md` under the right section |
-| Mark something done | Tick it off in `todo.md` and move to `## Done` with the date |
-| Shopping list | Edit `shopping.md` — add items under the relevant store or `## General` |
-| Gym / fitness / health | Append gym logs to `logs/gym.md`; edit plan at `projects/health-fitness/training-plan.md` |
-| Log something / note something | Append to `logs/YYYY-MM.md` under a `## YYYY-MM-DD` heading |
-| Holiday / trip planning | Edit `projects/holidays/notes.md` |
-| Meal ideas | Edit `notes/meals.md` |
-| Swedish learning | Edit `projects/swedish/notes.md` |
-| Archie — general | Edit `projects/archie/notes.md` |
-| Archie — sleep | Append a row to `projects/archie/sleep-log.md` |
-| Eloise | Edit `projects/eloise/notes.md` |
-| Books / reading / habits | Edit `projects/habits/notes.md` |
-| Notes on a specific book | Create or edit `projects/habits/<book-slug>-notes.md` |
-| Jeep / Land Rover build | Edit `projects/jeep-build/notes.md` |
-| Any other list or note | Create a simple `.md` file in the right place and tell me |
-
-## Projects
-
-| Folder | What it's for |
-|---|---|
-| `projects/health-fitness/` | Training plan, gym context |
-| `projects/swedish/` | Swedish learning notes, vocabulary, progress |
-| `projects/archie/` | Archie (born 12 Mar 2024) — milestones, health, memories, sleep tracking |
-| `projects/eloise/` | Eloise (born 3 Nov 2025) — milestones, health, memories |
-| `projects/habits/` | Reading log, intentions, habit tracking, per-book notes |
-| `projects/jeep-build/` | Half-scale Willy's Jeep or Land Rover build project |
-| `projects/holidays/` | Trip and holiday planning |
-
-## Full file structure (as it exists)
-
-```
-todo.md                               tasks and to-dos
-shopping.md                           shopping lists
-logs/
-  gym.md                              gym sessions (newest first)
-  YYYY-MM.md                          general daily notes
-notes/
-  meals.md                            meal ideas by category
-projects/
-  holidays/
-    notes.md                          trip and holiday planning
-  health-fitness/
-    training-plan.md                  current training plan with exercise guide
-  archie/
-    notes.md                          sleep context/routine, milestones, health, memories
-    sleep-log.md                      ongoing early-waking tracker (table, append new rows)
-  eloise/
-    notes.md                          milestones, health, memories
-  habits/
-    notes.md                          reading list, intentions, books read/in progress
-    the-trusted-advisor-notes.md      example of a per-book notes file
-  swedish/
-    notes.md                          vocabulary, grammar notes, books, progress
-  jeep-build/
-    notes.md                          research, plans, build log
-```
-
-## File formats
-
-**todo.md**
-```
-# To-do
-
-- [ ] Buy milk
-- [ ] Call the dentist
-
-## Done
-- [x] 2026-04-27 — Book restaurant
-```
-
-**shopping.md**
-```
-# Shopping
-
-## General
-- [ ] Milk
-- [ ] Bread
-```
-
-**logs/gym.md** — newest session at the top
-```
-# Gym Log
-
-## 2026-05-05 — Session A (Push + Cardio)
-
-**Strength — 3 rounds:**
-
-| Exercise | Round 1 | Round 2 | Round 3 |
-|---|---|---|---|
-| Barbell floor press | 20 reps @ 16kg | 20 reps @ 16kg | 20 reps @ 16kg |
-
-**Cardio:** 20 min @ 10km/h (~3.3km).
-
-**Notes:** Brief observation.
-```
-
-**logs/YYYY-MM.md**
-```
-# April 2026
-
-## 2026-04-27
-- Discussed holiday plans with Sarah — leaning towards Portugal in September
-```
-
-**projects/archie/sleep-log.md** — append a new row to the existing table
-```
-| Date | Wake time | Nap | Nap duration | Bedtime | Notes |
-|---|---|---|---|---|---|
-| 2026-05-06 | 4:50am | - | - | 7pm | Resettled when told to lie down. Woke 5:58 — brought to bed at 6am. |
-```
-
-## Tone
-Be brief. Confirm what was saved. Don't add unsolicited advice or filler.
+- **After every file change: commit with a clear message, then push.** Every interaction that modifies a file must result in a git commit and a push to remote.
+- Be brief. Confirm what was saved. Don't add unsolicited advice or filler.
+- When in doubt about who's speaking or which folder to edit, ask.

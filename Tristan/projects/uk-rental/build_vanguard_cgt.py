@@ -6,7 +6,7 @@ Pre-residency 15 Nov 2021 FTSE 100 partial sale handled (excluded from Swedish g
 import openpyxl
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 
-PATH = '/home/user/Claude/projects/uk-rental/Tax_Return.xlsx'
+PATH = '/home/user/Claude/Tristan/projects/uk-rental/Tax_Return.xlsx'
 wb = openpyxl.load_workbook(PATH)
 
 name = "Capital Gains 2025"

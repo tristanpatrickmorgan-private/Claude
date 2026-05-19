@@ -51,7 +51,7 @@ lines.append("")
 # ── ARCHIE — LAST SLEEP ─────────────────────────
 # Sleep-log columns: Date | Bedtime (prev. night) | Wake time | Resettled? | Back to sleep until | Nap | Notes
 try:
-    with open('projects/archie/sleep-log.md', 'r') as f:
+    with open('Family/projects/archie/sleep-log.md', 'r') as f:
         content = f.read()
 
     rows = [
