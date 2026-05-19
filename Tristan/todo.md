@@ -1,6 +1,7 @@
 # To-do
 
 - [ ] Roof box — investigate fixing yourself (plastic workshop quoted too expensive)
+- [ ] Ask the plumber how to turn on the outdoor tap at the back of the house (outside our bedroom)
 - [ ] Research lawnmowers
 - [ ] Register Electrolux appliance for warranty
 - [ ] Book Archie doctor follow-up for ear infection — by 2026-08-10 (3 months after diagnosis)
