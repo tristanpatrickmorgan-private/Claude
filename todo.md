@@ -2,7 +2,6 @@
 
 - [ ] Roof box — investigate fixing yourself (plastic workshop quoted too expensive)
 - [ ] En suite shower — investigate leak
-- [ ] UK tax return
 - [ ] Swedish tax return
 - [ ] Research lawnmowers
 - [ ] Register Electrolux appliance for warranty
@@ -31,3 +30,4 @@
 - [x] 2026-05-16 — Babysitter booked for Lisa & Johan's party (6 June) — Eloise arrangement still tbd
 - [x] 2026-05-18 — Fix email schedule — moved daily to 04:23 UTC (06:23 Stockholm) and weekly to 05:23 UTC Sun (07:23 Stockholm) to dodge top-of-hour GHA queue (was ~5hr late)
 - [x] 2026-05-18 — Verify Ryanair baggage allowance for WUERQV — confirmed 3×20kg checked, Babyutrustning on Archie's ticket (both legs), all Plus fare; Eloise pushchair+car seat presumed standard
+- [x] 2026-05-19 — UK tax return 2025-26 submitted (HMRC ref 2605755020, submission ref TJCNMDAJSEYYVY2C25QSPA5A4RJGUXN4) — total tax due £213.80; calc matched spreadsheet
