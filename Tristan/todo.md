@@ -3,7 +3,7 @@
 - [ ] Roof box — investigate fixing yourself (plastic workshop quoted too expensive)
 - [ ] Ask the plumber how to turn on the outdoor tap at the back of the house (outside our bedroom)
 - [ ] Research lawnmowers
-- [ ] Register Electrolux appliance for warranty
+- [ ] Register remaining Electrolux appliances (2 fridge-freezers + hob) — need model numbers (rating plates / kitchen build paperwork). 5 of 8 done 2026-05-19; see `Family/projects/home/notes.md`
 - [ ] Book Archie doctor follow-up for ear infection — by 2026-08-10 (3 months after diagnosis)
 - [ ] Wedding anniversary (4 June) — book dinner
 - [ ] Lisa & Johan's party (6 June) — decide Eloise arrangement (overnight or evening only)
