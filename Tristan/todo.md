@@ -1,7 +1,6 @@
 # To-do
 
 - [ ] Roof box — investigate fixing yourself (plastic workshop quoted too expensive)
-- [ ] En suite shower — investigate leak
 - [ ] Research lawnmowers
 - [ ] Register Electrolux appliance for warranty
 - [ ] Book Archie doctor follow-up for ear infection — by 2026-08-10 (3 months after diagnosis)
@@ -19,6 +18,7 @@
 - [ ] Swedish 2026 tax return — declare Swedish property sale (K5/K6 depending on type). Confirm if also owned on 1 Jan 2026 → second year's fastighetsavgift on 2026 return.
 
 ## Done
+- [x] 2026-05-19 — En suite shower leak fixed (small leak resolved)
 - [x] 2026-05-19 — Swedish tax return 2025 SUBMITTED (kvittens 20260519101426199209225011262906; Box 7.4 SEK 150,141; FTC SEK 5,608; full record in `projects/uk-rental/Swedish_Tax_Return_2025_filed.md`)
 - [x] 2026-04-29 — Ask Marie to call the plastic place to fix the roof box (too expensive — moving to DIY investigation)
 - [x] 2026-05-09 — Companies House verification
