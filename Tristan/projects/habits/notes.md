@@ -23,6 +23,7 @@
 ## Reading sessions log
 - 2026-05-17: before bed
 - 2026-05-18: bus to work
+- 2026-05-19: before bed ✓; no bus reading (WFH)
 
 ---
 
