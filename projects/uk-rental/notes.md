@@ -89,31 +89,54 @@ The correct Aug 2024 close (per the derived model above) is **£184,654.51**, no
 | `mortgage-monthly.xlsx` | Monthly mortgage table + tax summary sheet |
 | `mortgage-monthly.csv` | Same data as CSV for easy pasting |
 
-## Open actions
+## Filing status
 
-- [ ] UK 2025/26 tax return — mortgage interest **£7,829.88** (full year ✓)
-- [ ] UK 2024/25 tax return (if not already filed) — mortgage interest **£3,576.30** + fee **£1,749.00** = **£5,325.30**
-- [ ] Swedish 2025 tax return — see `Tax_Filing_Guide_2025.docx` for the full breakdown
-- [ ] Swedish 2024 tax return — mortgage interest **£2,803.66**
+| Year | UK return | Swedish return |
+|---|---|---|
+| 2023 | Filed (prior years) | Filed (prior years) |
+| 2024 | Filed | Filed (used net-of-commission position for schablonavdrag — different from 2025) |
+| **2025** | **✅ Filed 2026-05-19 07:38 GMT** (HMRC ref 2605755020) | **✅ Filed 2026-05-19 10:14 CEST** (Kvittens 20260519101426199209225011262906) |
+| 2026 | Open — file by Jan 2028 (recommend early Apr 2027 for Swedish FTC) | Open — file by 2 May 2027. See `Next_Year_Checklist.md`. |
 
-## 2025 filing — key open issues (before filing)
+## 2025 filing — final positions taken
 
-See `Tax_Filing_Guide_2025.docx` for full detail. Headlines:
+See `Tax_Filing_Guide_2025.md` for the full post-filing reference. Headlines:
 
-1. **Schablonavdrag base** — strict Skatteverket reading is 20% × gross rent (not net of commission). Your 2024 return used net-of-commission. Confirm with accountant. Difference for 2025: ~£235 of Swedish tax.
-2. **Vanguard CGT cost basis** — Swedish law uses original acquisition date in SEK at then-FX (no rebasing at Swedish move). Need Vanguard contribution history (date + GBP per contribution) to compute genomsnittsmetoden properly. Current calc is a Nov 2021 approximation.
-3. **Mortgage product fee £1,749** — Box 8.1 deductibility uncertain. Conservative: exclude. Aggressive: include with note. Differential ~£525 of Swedish tax.
-4. **UK 25/26 SA timing** — Swedish FTC only credits *finalised* UK tax. File UK first, or claim partial and amend later via omprövning.
+1. **Schablonavdrag base — GROSS rent** (strict reading per Skatteverket; cost +£1,215 vs net-of-commission). Note: 2024 return used net-of-commission — different method, but 2024 not being re-opened.
+2. **Vanguard CGT — genomsnittsmetoden per security, original-date FX** — 46 buys across 4 funds, total Box 7.4 = SEK 150,141. Full detail in `K4-vanguard-working-2025.md`.
+3. **Mortgage product fee £1,749 — EXCLUDED from Box 8.1** (RÅ 1997 ref. 63). Box 8.1 = SEK 89,876 (interest only).
+4. **FTC apportionment** — 9/12 UK 25/26 (finalised same day) + 3/12 UK 24/25 = SEK 5,608.
+
+All four positions disclosed in Övriga upplysningar → skattetillägg shield via öppen redovisning.
 
 ## Spreadsheet tabs (`Tax_Return.xlsx`)
 
-| Tab | What it is |
-|---|---|
-| `76A Ingelow Road` | Monthly rental income/expenses (Knight Frank statements) |
-| `Santander` | Monthly mortgage table (interest + fees, by UK + Swedish year) |
-| `Tax 24-25` | UK 24/25 + Swedish 2024 tax calc (verification) |
-| `Tax 25-26` | UK 25/26 + Swedish 2025 tax calc — **this year's filing** |
-| `Capital Gains 2025` | Vanguard ISA sale CGT calc |
-| `HSBC Interest` | Monthly UK savings interest, by tax year |
+| Tab | What it is | Status |
+|---|---|---|
+| `76A Ingelow Road` | Monthly rental income/expenses (Knight Frank statements) | Authoritative |
+| `Santander` | Monthly mortgage table (interest + fees, by UK + Swedish year) | Authoritative |
+| `Tax 24-25` | UK 24/25 + Swedish 2024 tax calc | Historical (filed) |
+| `Tax 25-26` | UK 25/26 + Swedish 2025 tax calc | **Filed 2026-05-19** |
+| `Capital Gains 2025` | Vanguard ISA sale CGT — 4-fund genomsnittsmetoden (rebuilt 19 May 2026) | **Filed 2026-05-19; total SEK 150,141** |
+| `HSBC Interest` | Monthly UK savings interest, by tax year | Authoritative |
+| `Yield Analysis` | 76a Ingelow yield calc | Reference |
+| `Submissions` | Submission refs + key figures cross-reference | **New 19 May 2026** |
 
 All formulas; edit parameters at top of each tax sheet and totals recompute.
+
+## Companion files (this folder)
+
+| File | Purpose |
+|---|---|
+| `Tax_Filing_Guide_2025.md` | Canonical post-filing reference for both UK & Swedish 2025 returns |
+| `Tax_Filing_Guide_2025.docx` | Word version regenerated from .md |
+| `Tax_Return.xlsx` | Working spreadsheet (all calc tabs) |
+| `K4-vanguard-working-2025.md` | Per-fund Vanguard genomsnittsmetoden detail (46 buys → 4 K4 rows) |
+| `Ovriga_upplysningar_2025.md` | Three blocks of Övriga upplysningar (utländska inkomster table + avräkning + öppen redovisning text) |
+| `Swedish_Tax_Return_2025_filed.md` | Submission record (kvittens + values) |
+| `Swedish_Tax_Return_2025_kvittens.pdf` | Skatteverket receipt |
+| `UK_Tax_Return_2025-26_filed.pdf` | HMRC submission |
+| `UK_Tax_Return_2025-26_submission_receipt.pdf` | HMRC receipt |
+| `Next_Year_Checklist.md` | What to do for the 2026 returns (next year) |
+| `vanguard-transactions/` | Vanguard ISA transaction PDFs (3 pages, archived 19 May 2026) |
+| `notes.md` | This file — mortgage history + tax-year totals |
