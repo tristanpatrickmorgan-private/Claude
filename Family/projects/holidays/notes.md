@@ -348,7 +348,19 @@ Researched 19 May 2026. Window: ~20 Sep – 5 Oct 2026. Filter: direct from Goth
 ### Open questions for booking
 
 - **Working assumption (19 May 2026):** Corfu — Tristan's preference (better accommodation options than Malta for this stage of life; villa + private pool is the differentiator).
-- [ ] Marie's work availability around 22 Sep – 28 Sep / early Oct?
+- **Ryanair GOT⇄CFU schedule:** flies Tuesdays + Saturdays only — so trip lengths must be 3, 4, or 7 nights.
+
+**Date options around Tristan's birthday (22 Sep 2026 = Tuesday):**
+
+| Option | Dates | Nights | Notes |
+|---|---|---|---|
+| **A (preferred)** | Sat 19 Sep → Sat 26 Sep | 7 | Birthday on the island in the middle of the trip. Best transit:trip ratio. |
+| B | Tue 22 Sep → Sat 26 Sep | 4 | Compact, but birthday is travel day |
+| C | Sat 19 Sep → Tue 22 Sep | 3 | Travel home on birthday — least ideal |
+| D | Tue 22 Sep → Tue 29 Sep | 7 | Same long stay, but birthday eaten by travel |
+| E (Oct fallback) | Sat 3 Oct → Sat 10 Oct | 7 | If late Sep doesn't suit Marie. ~22°C, sea still ~23°C |
+
+- [ ] Marie's work availability — first preference Sat 19 – Sat 26 Sep?
 - [ ] Lock dates → pull live Ryanair fares + check villa availability on chosen dates
 - [ ] Decide area: Dassia (calmer, closer to Corfu Town, good for paddling) vs Agios Gordios (sandy west coast, more rustic)
 
