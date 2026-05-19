@@ -15,7 +15,7 @@
 - [ ] Set up Claude access for Marie — add as GitHub collaborator on this repo, get her started on the free Claude mobile app, upgrade to Pro ($20/mo) if she finds it limiting
 - [ ] Investigate private dentists for me and Marie
 - [ ] **Pay UK 25/26 tax — ~£213.80** (filed 2026-05-19, HMRC ref 2605755020). Due 31 Jan 2027; pay via HMRC online (UTR-based reference). Confirm amount once HMRC issues the calculation summary.
-- [ ] **Pay Swedish 2025 tax — ~SEK 70,110** (preliminär kvarskatt SEK 75,718 less SEK 5,608 FTC, filed 2026-05-19 kvittens 20260519101426199209225011262906). Pay to Skatteverket bg **5050-1055** with OCR **1992092250114**. Slutskattebesked expected Aug–Sep 2026; high kostnadsränta already accruing on amount >SEK 30,000 since 4 May 2026, so pay ASAP via frivillig inbetalning. Confirm final amount once slutskattebesked arrives.
+- [ ] **Pay Swedish 2025 tax — ~SEK 70,110** (preliminär kvarskatt SEK 75,718 less SEK 5,608 FTC, filed 2026-05-19 kvittens 20260519101426199209225011262906). Pay to Skatteverket bg **5050-1055** with OCR **1992092250114**. Actual förfallodag = 90 days after slutskattebesked (expected Aug–Dec 2026, so due ~Nov 2026 – Mar 2027). Until then only *låg* kostnadsränta accrues (~statslåneräntan + 1.25%, ≈SEK 10–15/day on full amount); *hög* kostnadsränta only kicks in after förfallodag if unpaid. Frivillig inbetalning worth it if cash earning <~3.5% elsewhere.
 - [ ] Swedish 2026 tax return — declare Swedish property sale (K5/K6 depending on type). Confirm if also owned on 1 Jan 2026 → second year's fastighetsavgift on 2026 return.
 
 ## Done
