@@ -1,5 +1,23 @@
 # Gym Log
 
+## 2026-05-19 — Session B (Pull + Cardio)
+
+**Strength — 3 rounds:**
+
+| Exercise | Round 1 | Round 2 | Round 3 |
+|---|---|---|---|
+| Barbell bent-over row | 20 reps @ 16kg | 20 reps @ 16kg | 20 reps @ 16kg |
+| Kettlebell single-arm row (sub for band pull-apart) | 20 each @ 16kg | 20 each @ 16kg | 10 each @ 16kg |
+| Barbell curl | 15 reps @ 16kg | 10 reps @ 16kg | 9 reps @ 16kg |
+| Step-ups (1× 16kg KB held, not one each side) | 20 each leg | 20 each leg | 20 each leg |
+| Hollow hold | 45s | 45s | 60s |
+
+**Cardio:** 50 min @ 10 km/h (~8.33 km).
+
+**Notes:** 14-day gap since last session (5 May Session A). Started as one-round circuit, came back to complete rounds 2 and 3. Rows held 20 reps all 3 rounds — clear progression signal, bump to 20kg next Session B. Step-ups held 20 reps × 3 rounds with single 16kg KB — try 20kg KB next time. Curl reps dropped as expected on fatigue. Cardio massively above plan (15 min target). Strong overall.
+
+---
+
 ## 2026-05-05 — Session A (Push + Cardio)
 
 **Strength — 3 rounds:**
