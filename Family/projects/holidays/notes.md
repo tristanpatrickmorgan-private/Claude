@@ -273,6 +273,84 @@ Late September can touch 30°C, so May is the only safe window.
 
 **Status:** Nothing booked — revisit when ready to plan a specific slot.
 
+---
+
+## Late September / early October — birthday window (Tristan's 22 Sep birthday)
+
+Researched 19 May 2026. Window: ~20 Sep – 5 Oct 2026. Filter: direct from Gothenburg Landvetter, must work for young family (Archie 2, Eloise infant). All four shortlisted destinations below confirmed direct seasonal as of May 2026 — final scheduling/booking pages on Ryanair/SAS once dates confirmed.
+
+### Direct-flight check from GOT for this window
+
+| Destination | Direct? | Airline | Operating period | Frequency |
+|---|---|---|---|---|
+| **Porto (OPO)** | ✓ | Ryanair | May–end Oct | ~2x/week |
+| **Malta (MLA)** | ✓ | Ryanair | May–end Oct | 2x/week (Sun/Wed approx) |
+| **Corfu (CFU)** | ✓ | Ryanair | seasonal, runs into Oct | 2x/week (Wed + Sun) |
+| **Dubrovnik (DBV)** | ✓ | Ryanair | June–end Oct | seasonal |
+| Split (SPU) | ⚠️ | SAS | May–Sept only | Late Sep possibly OK, early Oct ✗ |
+| Lisbon (LIS) | ✗ | — | No direct from GOT (Amsterdam/Brussels connection adds ~5.5h) | — |
+| Madeira (FNC) | ✗ | — | Various 2026 launches from other Nordic hubs but no GOT direct confirmed | — |
+
+### Climate refresh (late Sep / early Oct)
+
+| Destination | Late Sep high | Early Oct high | Sea | Rain risk | Verdict |
+|---|---|---|---|---|---|
+| Porto | 22°C | 21°C | n/a | Picking up (~70mm Sep, ~100mm Oct) | Comfortable, occasional shower |
+| Malta | 27°C → 26°C | 25°C | 25°C | Very low | Warm but no longer 30°C peak |
+| Corfu | 24–25°C | 22°C | 24°C | Low–medium | **Now in the safe zone (file's earlier "27–29°C" was early September)** |
+| Dubrovnik | 23–24°C | 22°C | 23°C | Low | Pleasant, sea still swimmable |
+
+### Revised summary (this window)
+
+| | Porto | Malta | Corfu | Dubrovnik |
+|---|---|---|---|---|
+| Flight time | ~4h45m | ~3h45m | ~3h45m | ~2h45m |
+| Direct on Ryanair | ✓ | ✓ | ✓ | ✓ |
+| Best stay | Self-catering Bonfim/Ribeira | Sliema seafront apt | Villa + private pool (Dassia / Agios Gordios) | Old Town flat or hotel up the hill |
+| Feel | City + food + wine | Easy + flat + English | Beach + tavernas + pool | Walled city + Adriatic + day trips |
+| With young kids | ★★★★ | ★★★★★ | ★★★★★ | ★★★ (steps in Old Town a real pram problem) |
+| Budget (4 nights) | 13–19k SEK | 11–16k SEK | 14–22k SEK | 14–20k SEK |
+
+### Recommendation for the birthday trip
+
+**Late September is the sweet spot** — the window that opens Corfu and Malta which were ruled out by the early-September heat readings the previous version of this file relied on. Top picks in order:
+
+1. **Corfu, 4 nights, villa with private pool** (Dassia or Agios Gordios). Late Sep is finally in range — 24°C and the sea is still 24°C. Best overall experience with a toddler + infant. Birthday dinner at a tavern in the village. Budget ~16–22k SEK.
+2. **Malta, 3–4 nights, Sliema seafront apt**. Easiest logistics, English everywhere, flat promenade, ferry to Valletta. 26°C and still swimmable. Budget ~11–16k SEK. Best fit if logistics matter more than novelty.
+3. **Porto, 4 nights, self-catering Bonfim**. Already detailed in this file. 22°C, more rain than May, but the city is at its quietest. Birthday dinner with port wine, obvious win. Budget ~13–19k SEK.
+4. **Dubrovnik, 3 nights** — beautiful but the Old Town's stairs are a real pram obstacle. Better for a no-kids trip in the future.
+
+### Dubrovnik — 3 nights, late Sept / early Oct (added for reference)
+
+**~23°C, sea 23°C. Stunning Adriatic walled city. Direct Ryanair from GOT, ~2h45m.**
+
+**Caveat for this stage of life:** the Old Town inside the walls is mostly stone steps and slopes — a pushchair is awkward. A villa or hotel just outside the walls (Lapad or Babin Kuk) with a sea-view and pool, plus a day-trip into the Old Town, works better than basing in the centre.
+
+- Hotel (Lapad/Babin Kuk, family room): ~1,200–1,800 SEK/night → 3 nights ~3,600–5,400 SEK
+- Apartment (Lapad, more space): ~900–1,400 SEK/night → ~2,700–4,200 SEK
+
+**Itinerary:**
+- Day 1: Arrive, beach at Lapad, dinner near the marina
+- Day 2: Morning — walk Old Town walls (Eloise in a carrier, Archie may need to be carried part-way). Afternoon — pool/beach
+- Day 3: Lokrum island day-trip (15-min boat from Old Town port, peacocks, easy paths, picnic) OR drive up to Mount Srđ via cable car for sunset
+- Day 4: Fly home
+
+**Budget:**
+| Item | Low | High |
+|---|---|---|
+| Flights (Ryanair return, late Sep) | 4,500 SEK | 7,000 SEK |
+| Accommodation 3 nights | 2,700 SEK | 5,400 SEK |
+| Food (tavernas + Adriatic seafood) | 3,000 SEK | 4,000 SEK |
+| Local transport (taxis, cable car, boat) | 1,500 SEK | 2,000 SEK |
+| Activities | 1,000 SEK | 1,500 SEK |
+| **Total** | **~12,700 SEK** | **~19,900 SEK** |
+
+### Open questions for booking
+
+- [ ] Marie's work availability around 22 Sep – 28 Sep / early Oct?
+- [ ] Decide between Corfu villa, Malta apt, or Porto self-catering — first preference?
+- [ ] Once preference set, check live Ryanair fares for the specific dates
+
 ## To do
 - [ ] Confirm Alfie & Harriet (Sun 12 Jul) once baby is born — fallback is free day in London
 - [ ] Book car hire for London trip (7–15 July)
