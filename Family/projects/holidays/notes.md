@@ -364,6 +364,19 @@ Researched 19 May 2026. Window: ~20 Sep – 5 Oct 2026. Filter: direct from Goth
 - [ ] Lock dates → pull live Ryanair fares + check villa availability on chosen dates
 - [ ] Decide area: Dassia (calmer, closer to Corfu Town, good for paddling) vs Agios Gordios (sandy west coast, more rustic)
 
+### Live price check (19 May 2026, indicative for 4-night villa trip)
+
+| Item | SEK |
+|---|---:|
+| Ryanair return for 4 (2 adults + Archie + Eloise) | ~10,500 |
+| Villa with pool, 4 nights | 15,000–20,000 |
+| Food (4 days, tavernas) | 2,500–3,500 |
+| Car hire (4 days) | 1,600 |
+| Activities (boat trip, palace, etc.) | 1,000 |
+| **Total** | **~30,500–36,600 SEK** |
+
+Higher than the file's earlier 14–22k estimate because the villa tier matches the comfort we actually want (private pool, space for the kids, sea views), and Ryanair end-Sep fares are firmer than the May estimate assumed. A 7-night stay (Sat→Sat option A) would add ~3 nights of accommodation only — flights are the same — so probably ~+12k SEK to ~42–48k total for the full week.
+
 ### Accommodation starting points (researched 19 May 2026)
 
 **Corfu — villa with private pool (the strongest fit per "with young kids" criterion):**
