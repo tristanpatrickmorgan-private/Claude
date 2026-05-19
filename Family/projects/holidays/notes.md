@@ -347,9 +347,10 @@ Researched 19 May 2026. Window: ~20 Sep – 5 Oct 2026. Filter: direct from Goth
 
 ### Open questions for booking
 
+- **Working assumption (19 May 2026):** Corfu — Tristan's preference (better accommodation options than Malta for this stage of life; villa + private pool is the differentiator).
 - [ ] Marie's work availability around 22 Sep – 28 Sep / early Oct?
-- [ ] Decide between Corfu villa, Malta apt, or Porto self-catering — first preference?
-- [ ] Once preference set, check live Ryanair fares for the specific dates
+- [ ] Lock dates → pull live Ryanair fares + check villa availability on chosen dates
+- [ ] Decide area: Dassia (calmer, closer to Corfu Town, good for paddling) vs Agios Gordios (sandy west coast, more rustic)
 
 ### Accommodation starting points (researched 19 May 2026)
 
