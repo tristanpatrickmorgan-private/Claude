@@ -30,3 +30,4 @@ Tracking early waking issue. Started logging 2026-04-28.
 | 2026-05-17 | 7:30pm | 5:00am | Yes (quickly) | 6:00am | - | Woke 5am — back to sleep quickly. Woke again 6am, came to parents' bed. |
 | 2026-05-18 | 7:30pm | 5:20am | No | — | - | Told to lie down twice — didn't settle. Brought to parents' bed at 6am. Not super sad. |
 | 2026-05-19 | 7:30pm | 5:20am | No | — | - | Didn't settle. Not a great night in general. |
+| 2026-05-20 | 7:30pm | 5:57am | n/a (so close to target) | — | - | Woke 5:57am, brought to parents' bed at 6:00am — basically at gro-clock target. |
